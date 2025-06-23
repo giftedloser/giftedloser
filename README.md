@@ -82,27 +82,66 @@ const developer = {
 </div>
 
 ## 🎯 What I'm Building
-### 🔥 Tools That Make Life Easier
-#### 🖥️ Network Config Automation Suite
-> PowerShell tools that turn hours of switch configuration into minutes
-- Tech: PowerShell, REST APIs, JSON templating
-- Why: Because manually configuring 50+ switches is nobody's idea of fun
-- Features: Bulk config deployment, compliance checking, rollback automation
-#### ⚡ IT Asset Dashboard
-> Beautiful web interface for tracking and managing enterprise assets
-- Tech: React, Python FastAPI, SQL Server
-- Why: Spreadsheets are not databases, and databases shouldn't look like spreadsheets
-- Features: Real-time asset tracking, automated compliance reporting, mobile-friendly
-#### 🔐 Security Compliance Checker
-> Automated tools for regulatory compliance across multi-site operations
-- Tech: PowerShell, Python, Active Directory APIs
-- Why: Compliance audits are stressful enough without manual checking
-- Features: Automated policy validation, exception reporting, remediation scripts
-#### 🌐 Network Troubleshooting Toolkit
-> Web-based diagnostic tools with beautiful visualizations
-- Tech: React, D3.js, Python, Network APIs
-- Why: Pretty graphs make network problems easier to understand and explain
-- Features: Interactive network maps, real-time monitoring, alert management
+### 🔧 Core Infrastructure Tools (Enterprise-Ready)
+
+#### 🧰 Modern PuTTY Replacement
+> Secure, tabbed SSH/SFTP client with encrypted session vault and IOS config management  
+- Tech: Electron, Node.js, xterm.js, AES-GCM  
+- Why: Because PuTTY is outdated and enterprise ops demand better  
+- Features: Session tagging, SFTP support, config drag/drop, auto login profiles
+
+#### 🧠 AD Permissions Visualizer
+> Interactive tool to visualize Active Directory relationships and GPO scoping  
+- Tech: PowerShell, React, D3.js  
+- Why: Nested group permission chains shouldn't require guesswork  
+- Features: DAG rendering, user/group tracing, export to PNG/CSV
+
+#### 🛠️ ISO Surgery & WIM Toolkit
+> ISO rebuilder with unattended injection, WIM splitting, and DISM driver layering  
+- Tech: PowerShell, DISM, oscdimg  
+- Why: You shouldn't need 6 tools to make a bootable ISO  
+- Features: Auto 4GB+ WIM handling, driver/script injection, full CLI + WPF GUI
+
+#### 💻 Device Provisioning Pipeline
+> Asset-based image generator that builds custom Windows ISOs from CSV input  
+- Tech: PowerShell, Python, XML schema validation  
+- Why: Imaging should be scalable, repeatable, and hardware-aware  
+- Features: Driver injection, unattend merging, ISO rebuild with per-host config
+
+#### 🌐 PXE Boot Manager
+> Flask-based system to control TFTP/iPXE via web interface and YAML-defined profiles  
+- Tech: Python, Flask, YAML, syslinux  
+- Why: PXE workflows should be centralized and versioned  
+- Features: ISO/WIM upload, auto profile rendering, iPXE & pxelinux config engine
+
+---
+
+### 🧪 Engineering Experiments & CLI Utilities
+
+#### 🔍 Live Config Diff Viewer
+> CLI/GUI tool to compare network configs and classify changes by intent  
+- Tech: Python, difflib, tkinter  
+- Features: ACL/interface diffing, export to HTML/PDF, tag-aware line change classification
+
+#### ⚙️ Infra-as-Code Exporter
+> Converts AD/GPO/switch/firewall configs into HCL or YAML IaC definitions  
+- Tech: PowerShell, Python, Jinja2  
+- Features: Terraform-ready exports, dry-run mode, schema enforcement
+
+#### 🔐 Secure Vault CLI
+> Encrypted credential store with rotation tracking and AD login checks  
+- Tech: Python, AES-GCM, DPAPI fallback  
+- Features: Audit trail logging, expiry detection, full import/export system
+
+#### 🛰️ VLAN Mapper
+> SNMP/SSH-driven VLAN-to-port mapper with config parsing and Visio output  
+- Tech: Python, Netmiko, TextFSM  
+- Features: Port/VLAN correlation, CDP/LLDP integration, CLI + JSON export
+
+#### 📊 IT Asset Dashboard *(WIP)*  
+> Real-time web interface for device inventory and compliance visibility  
+- Tech: React, FastAPI, SQL Server  
+- Features: Rule-based exception tracking, role-aware views, mobile-friendly design
 
 </div>
 
