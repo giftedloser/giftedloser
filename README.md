@@ -36,7 +36,7 @@ const developer = {
 
 ## 🛠️ Tech Arsenal
 
-<div align="center">
+<div align="left">
 
 ### ⚙️ Programming & Scripting
 
