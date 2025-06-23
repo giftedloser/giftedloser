@@ -99,7 +99,7 @@ const developer = {
   <img src="https://img.shields.io/badge/Security+-8B4513?style=for-the-badge&logo=comptia&logoColor=white"/>
 </p>
 
-**🎯 Next Up:** CCNA Exam - Summer 2025
+**🚀 Next Up:** CCNA Exam - Summer 2025
 
 </div>
 
