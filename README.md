@@ -161,3 +161,5 @@ I'm passionate about building tools that solve real problems. Whether you're dea
 *"Making enterprise IT tools that don't suck, one automation script at a time"* 🚀
 
 </div>
+
+![Metrics](https://raw.githubusercontent.com/giftedloser/giftedloser/main/github-metrics.svg)
