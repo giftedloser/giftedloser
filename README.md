@@ -91,17 +91,17 @@ const developer = {
 
 ## 🏆 Certifications & Goals
 
-<div align="center">
+<div align="left">
 
-<table>
-  <tr>
-    <td><img src="https://img.shields.io/badge/CompTIA-A+-FF0000?style=flat-square&logo=comptia&logoColor=white"/></td>
-    <td><img src="https://img.shields.io/badge/CompTIA-Network+-007ACC?style=flat-square&logo=comptia&logoColor=white"/></td>
-    <td><img src="https://img.shields.io/badge/CompTIA-Security+-8B4513?style=flat-square&logo=comptia&logoColor=white"/></td>
-  </tr>
-</table>
+<p>
+  <img src="https://img.shields.io/badge/CompTIA_A+-FF0000?style=for-the-badge&logo=comptia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Network+-007ACC?style=for-the-badge&logo=comptia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Security+-8B4513?style=for-the-badge&logo=comptia&logoColor=white"/>
+</p>
 
 **🎯 Next Up:** CCNA Exam - Summer 2025
+
+</div>
 
 </div>
 
