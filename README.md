@@ -90,7 +90,7 @@ const developer = {
 
 ## 🏆 Certifications & Goals
 
-<div align="center">
+<div align="left">
 
 <p>
   <img src="https://img.shields.io/badge/CompTIA-A+-FF0000?style=for-the-badge&logo=comptia&logoColor=white"/>
