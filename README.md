@@ -129,7 +129,7 @@ const developer = {
 - Why: You shouldn't need 6 tools to make a bootable ISO  
 - Features: Auto 4GB+ WIM handling, driver/script injection, full CLI + WPF GUI
 
-#### 💻 Unattendo - Device Provisioning Pipeline
+#### 💻 UForge - Device Provisioning Pipeline
 > Asset-based image generator that builds custom Windows ISOs from CSV input  
 - Tech: PowerShell, Python, XML schema validation  
 - Why: Imaging should be scalable, repeatable, and hardware-aware  
