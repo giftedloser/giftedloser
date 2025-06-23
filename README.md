@@ -85,29 +85,32 @@ const developer = {
 
 ### 🔥 Tools That Make Life Easier
 
-#### 🖥️ **Network Config Automation Suite**
-> PowerShell tools that turn hours of switch configuration into minutes
-- **Tech:** PowerShell, REST APIs, JSON templating
-- **Why:** Because manually configuring 50+ switches is nobody's idea of fun
-- **Features:** Bulk config deployment, compliance checking, rollback automation
+🐦 Pidgeon - Enterprise Workflow Automation
 
-#### ⚡ **IT Asset Dashboard**
-> Beautiful web interface for tracking and managing enterprise assets
-- **Tech:** React, Python FastAPI, SQL Server
-- **Why:** Spreadsheets are not databases, and databases shouldn't look like spreadsheets
-- **Features:** Real-time asset tracking, automated compliance reporting, mobile-friendly
+Modern desktop application for streamlined ID delivery and access management
 
-#### 🔐 **Security Compliance Checker**
-> Automated tools for regulatory compliance across multi-site operations
-- **Tech:** PowerShell, Python, Active Directory APIs
-- **Why:** Compliance audits are stressful enough without manual checking
-- **Features:** Automated policy validation, exception reporting, remediation scripts
 
-#### 🌐 **Network Troubleshooting Toolkit**
-> Web-based diagnostic tools with beautiful visualizations
-- **Tech:** React, D3.js, Python, Network APIs
-- **Why:** Pretty graphs make network problems easier to understand and explain
-- **Features:** Interactive network maps, real-time monitoring, alert management
+Tech: Electron, React, TypeScript, Vite, Tailwind CSS
+Why: Complex enterprise workflows shouldn't require multiple systems and manual steps
+Features: XML payload processing, configurable endpoints, comprehensive logging, AD integration, intuitive UI with expandable navigation
+
+🖥️ Network Config Automation Suite
+
+PowerShell tools that turn hours of switch configuration into minutes
+
+
+Tech: PowerShell, REST APIs, JSON templating
+Why: Because manually configuring 50+ switches is nobody's idea of fun
+Features: Bulk config deployment, compliance checking, rollback automation
+
+⚡ IT Asset Dashboard
+
+Beautiful web interface for tracking and managing enterprise assets
+
+
+Tech: React, Python FastAPI, SQL Server
+Why: Spreadsheets are not databases, and databases shouldn't look like spreadsheets
+Features: Real-time asset tracking, automated compliance reporting, mobile-friendly
 
 </div>
 
