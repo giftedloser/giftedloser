@@ -1,70 +1,144 @@
-# giftedloser
+# 👋 Hey, I'm giftedloser
 
-## 🧩 Overview
+<div align="center">
 
-Senior IT Analyst and Network Engineer specializing in secure systems automation, enterprise infrastructure, and performance-tuned full-stack deployments. Expert in designing and enforcing hardened architectures across Windows Server, Active Directory, network topology, and CI/CD environments. Portfolio emphasizes zero-drift configuration, privilege enforcement, and real-world operational tooling for complex, policy-constrained enterprises.
+![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Network+Engineer+%E2%86%92+Full-Stack+Developer;Infrastructure+Expert+Building+Beautiful+UIs;PowerShell+Wizard+%7C+Python+Enthusiast;Turning+Network+Logic+into+Elegant+Code)
 
-## 🛠️ Core Competencies
+</div>
 
-- **Infrastructure Engineering:** Active Directory, GPO, PKI, DNS/DHCP, Hyper-V, PXE
-- **Scripting & Automation:** PowerShell (core), Python (tooling/UI), Bash, TypeScript
-- **Security & Compliance:** Role-based access control (RBAC), privilege audit, endpoint hardening, TPM/Secure Boot
-- **CI/CD & Deployment:** GitHub Actions, Packer, DSC, unattended installs, ISO/WIM automation
-- **Monitoring & Analysis:** SNMP, syslog, NetFlow, WMI, endpoint state telemetry
-- **UX & Tooling:** Custom Electron interfaces, CLI wrappers, dashboard UIs with secure route enforcement
+## 🚀 About Me
 
-## 📌 Highlight Projects
+I'm a **Network Engineer & Senior IT Analyst** with a passion for creating beautiful, functional software. Currently transitioning into full-stack development, I bring a unique perspective that combines deep infrastructure knowledge with modern development practices.
 
-> Full documentation, source structure, CI pipelines, and usage guides are enforced per repo.
+```typescript
+const developer = {
+  background: "Network Engineering & IT Analysis",
+  passion: ["Beautiful UI/UX", "Clean Code", "Network Automation"],
+  currentlyLearning: ["React", "Node.js", "TypeScript", "Modern CSS"],
+  askMeAbout: ["PowerShell", "Active Directory", "Network Security", "Infrastructure as Code"],
+  funFact: "I debug network packets by day and React components by night 🌙"
+};
+```
 
-- [`p1`](https://github.com/giftedloser/p1):  
-  AD-centric utility with hardened scripting logic. Multi-module, modular, secured for domain execution.  
-  **Stack:** PowerShell, JSON, AD cmdlets  
-  **Focus:** Enterprise permission enforcement, modular automation
+## 💼 Professional Journey
 
-- [`P4`](https://github.com/giftedloser/P4):  
-  TypeScript-based secure frontend with AD-aware routing and policy-mapped interface logic.  
-  **Stack:** Electron, TypeScript, AD Group integration  
-  **Focus:** UI security enforcement via AD membership, route control
+**🎯 Current Role:** Network Engineer & Senior IT Analyst  
+**📍 Location:** Denver, CO  
+**🔄 Transition Goal:** Full-Stack Developer specializing in infrastructure tooling
 
-- `WIMSplit-Rebuilder`: *(WIP, private)*  
-  Secure WIM splitting and ISO rebuilding pipeline for Windows deployment with TPM/Secure Boot awareness.  
-  **Stack:** PowerShell, DISM, oscdimg, security policy injection  
-  **Focus:** ISO creation for compliant, scalable image deployment
+### What Makes Me Different
+- **Infrastructure-First Mindset:** Every app I build considers scalability, security, and maintainability from day one
+- **Enterprise Experience:** Deep understanding of AD, PKI, Group Policy, and enterprise security models
+- **Automation Expert:** Years of PowerShell scripting translated into modern development practices
+- **Security-Conscious:** Built-in understanding of authentication, authorization, and secure coding practices
 
-- `InfraGuard-PolicySync`: *(Planned)*  
-  GitOps-style GPO baseline manager with drift detection and sync control.  
-  **Focus:** Hybrid AD/Git policy convergence with alerting
+## 🛠️ Tech Stack
 
-## 🔐 Security-First Philosophy
+### **Core Languages**
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-Every project enforces:
-- **Access validation at entry**
-- **Environment checks before execution**
-- **Zero-assumption input handling**
-- **Explicit error logic**
-- **Documentation of architectural impact**
+### **Frontend Development**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-## 🚧 In Progress
+### **Infrastructure & DevOps**
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=microsoft&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active_Directory-0078D6?style=for-the-badge&logo=microsoft&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-- Hardened CI/CD templates for enterprise PS/Python tools  
-- WMI + SNMP unified network health monitor  
-- Auto-renewing PKI deployment agent  
-- GitHub actions for pre-commit redaction, linting, and test coverage
+### **Databases & Tools**
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## 📈 Stats
+## 🎯 What I'm Building
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=giftedloser&show_icons=true&count_private=true&hide=prs&theme=default)
+### 🔥 Featured Projects
 
-## 📫 Contact
+#### 🖥️ **Enterprise UI Components**
+> Building a React component library specifically designed for IT administration interfaces
+- **Tech:** React, TypeScript, Tailwind CSS
+- **Focus:** AD-integrated authentication, role-based UI components
+- **Why:** Bridging the gap between enterprise backend systems and modern UX
 
-Enterprise inquiries only.  
-**Location:** Denver, CO  
-**Availability:** [By request]  
-**Email:** _Available upon request or via secure contact channel_
+#### ⚡ **PowerShell to Web Bridge**
+> Converting PowerShell automation scripts into beautiful web interfaces
+- **Tech:** Node.js, Express, React, PowerShell Core
+- **Focus:** Real-time script execution, progress tracking, secure parameter handling
+- **Why:** Making enterprise automation accessible to non-technical users
 
+#### 🔐 **Network Security Dashboard**
+> Real-time network monitoring with modern data visualization
+- **Tech:** Python, FastAPI, React, D3.js
+- **Focus:** Beautiful charts, real-time updates, alert management
+- **Why:** Combining network expertise with modern frontend skills
 
+## 📊 GitHub Analytics
 
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=giftedloser&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=giftedloser&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=giftedloser&theme=tokyonight&hide_border=true)
+
+</div>
+
+## 🌟 My Development Philosophy
+
+```javascript
+const myApproach = {
+  design: "Beautiful and functional - never choose one over the other",
+  code: "Clean, documented, and maintainable",
+  security: "Built-in from day one, never an afterthought",
+  userExperience: "If it's not intuitive, it's not done",
+  infrastructure: "Scale-ready architecture from the start"
+};
+```
+
+## 🎨 UI/UX Inspiration
+
+I believe great software is where **beautiful design meets robust functionality**. My network engineering background gives me a unique appreciation for:
+
+- **Performance-first design** - Every animation and interaction is optimized
+- **Error handling that makes sense** - Clear, actionable feedback for users
+- **Progressive disclosure** - Complex enterprise features made simple
+- **Accessibility by default** - Infrastructure for everyone
+
+## 📚 Currently Learning
+
+- 🎨 **Advanced CSS & Animations** - Creating micro-interactions and smooth transitions
+- ⚛️ **React Ecosystem** - Next.js, React Query, Zustand
+- 🔧 **Modern DevOps** - Docker, Kubernetes, GitHub Actions
+- 📱 **Mobile Development** - React Native for cross-platform apps
+
+## 🤝 Let's Connect!
+
+I'm actively seeking **full-stack developer roles** where I can combine my infrastructure expertise with modern development practices. Particularly interested in:
+
+- 🏢 **Enterprise SaaS platforms**
+- 🔧 **Developer tooling and automation**
+- 🎨 **UI/UX focused development teams**
+- 🔐 **Security-focused applications**
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+---
+
+*"Building tomorrow's infrastructure tools with today's best practices"*
+
+</div>
 
 
 ![Metrics](https://raw.githubusercontent.com/giftedloser/giftedloser/main/github-metrics.svg)
