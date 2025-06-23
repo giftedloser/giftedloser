@@ -79,16 +79,6 @@ const developer = {
 - **Focus:** Beautiful charts, real-time updates, alert management
 - **Why:** Combining network expertise with modern frontend skills
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=giftedloser&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=giftedloser&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=giftedloser&theme=tokyonight&hide_border=true)
-
 </div>
 
 ## 🌟 My Development Philosophy
