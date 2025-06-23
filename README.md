@@ -4,35 +4,35 @@
 
 <table>
   <tr>
-    <td><img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/></td>
-    <td><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></td>
-    <td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></td>
-    <td><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/></td>
-    <td><img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/></td>
-    <td><img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/></td>
+    <td><img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white"/></td>
+    <td><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></td>
+    <td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/></td>
+    <td><img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/></td>
+    <td><img src="https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white"/></td>
+    <td><img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white"/></td>
   </tr>
   <tr>
-    <td><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></td>
-    <td><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></td>
-    <td><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></td>
-    <td><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/></td>
-    <td><img src="https://img.shields.io/badge/API_Integration-009688?style=for-the-badge&logo=fastapi&logoColor=white"/></td>
-    <td><img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/></td>
+    <td><img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/></td>
+    <td><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/></td>
+    <td><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/></td>
+    <td><img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white"/></td>
+    <td><img src="https://img.shields.io/badge/API_Integration-009688?style=flat-square&logo=fastapi&logoColor=white"/></td>
+    <td><img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white"/></td>
   </tr>
   <tr>
-    <td><img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/></td>
-    <td><img src="https://img.shields.io/badge/Palo_Alto-FA582D?style=for-the-badge&logo=paloaltonetworks&logoColor=white"/></td>
-    <td><img src="https://img.shields.io/badge/FortiGate-EE3124?style=for-the-badge&logo=fortinet&logoColor=white"/></td>
-    <td><img src="https://img.shields.io/badge/Meraki-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/></td>
-    <td><img src="https://img.shields.io/badge/Ruckus_ICX-FF6900?style=for-the-badge&logo=ruckuswireless&logoColor=white"/></td>
-    <td><img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white"/></td>
+    <td><img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white"/></td>
+    <td><img src="https://img.shields.io/badge/Palo_Alto-FA582D?style=flat-square&logo=paloaltonetworks&logoColor=white"/></td>
+    <td><img src="https://img.shields.io/badge/FortiGate-EE3124?style=flat-square&logo=fortinet&logoColor=white"/></td>
+    <td><img src="https://img.shields.io/badge/Meraki-1BA0D7?style=flat-square&logo=cisco&logoColor=white"/></td>
+    <td><img src="https://img.shields.io/badge/Ruckus_ICX-FF6900?style=flat-square&logo=ruckuswireless&logoColor=white"/></td>
+    <td><img src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white"/></td>
   </tr>
   <tr>
-    <td><img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/></td>
-    <td><img src="https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/></td>
-    <td><img src="https://img.shields.io/badge/Active_Directory-0078D6?style=for-the-badge&logo=microsoft&logoColor=white"/></td>
-    <td><img src="https://img.shields.io/badge/SAML-326CE5?style=for-the-badge&logo=auth0&logoColor=white"/></td>
-    <td><img src="https://img.shields.io/badge/SSO-FF6B35?style=for-the-badge&logo=okta&logoColor=white"/></td>
+    <td><img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white"/></td>
+    <td><img src="https://img.shields.io/badge/Microsoft_365-D83B01?style=flat-square&logo=microsoft-office&logoColor=white"/></td>
+    <td><img src="https://img.shields.io/badge/Active_Directory-0078D6?style=flat-square&logo=microsoft&logoColor=white"/></td>
+    <td><img src="https://img.shields.io/badge/SAML-326CE5?style=flat-square&logo=auth0&logoColor=white"/></td>
+    <td><img src="https://img.shields.io/badge/SSO-FF6B35?style=flat-square&logo=okta&logoColor=white"/></td>
     <td></td>
   </tr>
 </table>
@@ -44,33 +44,15 @@
 <div align="center">
 
 <p>
-  <img src="https://img.shields.io/badge/CompTIA-A+-FF0000?style=for-the-badge&logo=comptia&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CompTIA-Network+-007ACC?style=for-the-badge&logo=comptia&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CompTIA-Security+-8B4513?style=for-the-badge&logo=comptia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CompTIA-A+-FF0000?style=flat-square&logo=comptia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CompTIA-Network+-007ACC?style=flat-square&logo=comptia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CompTIA-Security+-8B4513?style=flat-square&logo=comptia&logoColor=white"/>
 </p>
 
 **🎯 Next Up:** CCNA Exam - Summer 2025
 
 </div>
 
-</div>
-
-## 🏆 Certifications & Goals
-
-<div align="center">
-
-<p>
-  <img src="https://img.shields.io/badge/CompTIA-A+-FF0000?style=for-the-badge&logo=comptia&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CompTIA-Network+-007ACC?style=for-the-badge&logo=comptia&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CompTIA-Security+-8B4513?style=for-the-badge&logo=comptia&logoColor=white"/>
-</p>
-
-**🎯 Next Up:** CCNA Exam - Summer 2025
-
-</div>
-
-
-</div>
 
 
 # 👋 Hey, I'm giftedloser
