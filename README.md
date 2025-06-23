@@ -1,3 +1,39 @@
+# 👋 Hey, I'm giftedloser
+
+<div align="center">
+
+![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Network+Engineer+%E2%86%92+Self-Taught+Developer;Security+%26+Networking+Specialist;Building+Tools+That+Make+Work+Easier;Turning+Network+Logic+into+Elegant+Code)
+
+</div>
+
+## 🚀 About Me
+
+I'm a **Network Engineer & Self-Taught Developer** specializing in security and networking infrastructure. I love creating programs and tools that make my job (and everyone else's) easier. My passion lies in building automation solutions that bridge the gap between enterprise networking and modern development practices.
+
+```typescript
+const developer = {
+  role: "Network Engineer & Self-Taught Developer",
+  specialization: ["Security", "Networking", "Switch Configs", "Automation"],
+  passion: "Building tools that make work easier",
+  industries: "Regulated environments & enterprise IT",
+  currentlyLearning: ["React", "UI/UX Design", "Ansible", "Cursor/Loveable"],
+  funFact: "Also a skateboarding historian 🛹",
+  nextGoal: "CCNA exam in Summer 2025"
+};
+```
+
+## 💼 What I Do
+
+**🎯 Current Focus:** Network Engineer transitioning to full-stack development  
+**📍 Location:** Denver, CO  
+**🔥 Mission:** Creating beautiful, functional tools that solve real IT problems
+
+### My Unique Approach
+- **Security-First Development:** Every tool I build considers compliance and regulatory requirements
+- **Automation Obsessed:** If I'm doing it twice, I'm writing a script for it
+- **Enterprise-Ready:** Deep understanding of multi-site operations and scalable infrastructure
+- **Problem-Solver:** I see inefficiencies everywhere and can't help but fix them with code
+
 ## 🛠️ Tech Arsenal
 
 <div align="center">
@@ -61,100 +97,6 @@
   <img src="https://img.shields.io/badge/CompTIA-Network+-007ACC?style=for-the-badge&logo=comptia&logoColor=white"/>
   <img src="https://img.shields.io/badge/CompTIA-Security+-8B4513?style=for-the-badge&logo=comptia&logoColor=white"/>
 </p>
-
-**🎯 Next Up:** CCNA Exam - Summer 2025
-
-</div>
-
-
-</div>
-
-
-</div>
-
-
-</div>
-
-
-
-# 👋 Hey, I'm giftedloser
-
-<div align="center">
-
-![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Network+Engineer+%E2%86%92+Self-Taught+Developer;Security+%26+Networking+Specialist;Building+Tools+That+Make+Work+Easier;Turning+Network+Logic+into+Elegant+Code)
-
-</div>
-
-## 🚀 About Me
-
-I'm a **Network Engineer & Self-Taught Developer** specializing in security and networking infrastructure. I love creating programs and tools that make my job (and everyone else's) easier. My passion lies in building automation solutions that bridge the gap between enterprise networking and modern development practices.
-
-```typescript
-const developer = {
-  role: "Network Engineer & Self-Taught Developer",
-  specialization: ["Security", "Networking", "Switch Configs", "Automation"],
-  passion: "Building tools that make work easier",
-  industries: "Regulated environments & enterprise IT",
-  currentlyLearning: ["React", "UI/UX Design", "Ansible", "Cursor/Loveable"],
-  funFact: "Also a skateboarding historian 🛹",
-  nextGoal: "CCNA exam in Summer 2025"
-};
-```
-
-## 💼 What I Do
-
-**🎯 Current Focus:** Network Engineer transitioning to full-stack development  
-**📍 Location:** Denver, CO  
-**🔥 Mission:** Creating beautiful, functional tools that solve real IT problems
-
-### My Unique Approach
-- **Security-First Development:** Every tool I build considers compliance and regulatory requirements
-- **Automation Obsessed:** If I'm doing it twice, I'm writing a script for it
-- **Enterprise-Ready:** Deep understanding of multi-site operations and scalable infrastructure
-- **Problem-Solver:** I see inefficiencies everywhere and can't help but fix them with code
-
-## 🛠️ Tech Arsenal
-
-### **Programming & Scripting Languages**
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-### **Web Development**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-
-### **Infrastructure & Networking**
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Palo Alto](https://img.shields.io/badge/Palo_Alto-FA582D?style=for-the-badge&logo=paloaltonetworks&logoColor=white)
-![FortiGate](https://img.shields.io/badge/FortiGate-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)
-![Meraki](https://img.shields.io/badge/Meraki-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Ruckus ICX](https://img.shields.io/badge/Ruckus_ICX-FF6900?style=for-the-badge&logo=ruckuswireless&logoColor=white)
-
-### **Cloud & Enterprise**
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
-![Active Directory](https://img.shields.io/badge/Active_Directory-0078D6?style=for-the-badge&logo=microsoft&logoColor=white)
-![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
-
-### **Security & Automation**
-![SAML](https://img.shields.io/badge/SAML-326CE5?style=for-the-badge&logo=auth0&logoColor=white)
-![SSO](https://img.shields.io/badge/SSO-FF6B35?style=for-the-badge&logo=okta&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![API Integration](https://img.shields.io/badge/API_Integration-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-## 🏆 Certifications & Goals
-
-<div align="center">
-
-![CompTIA A+](https://img.shields.io/badge/CompTIA-A+-FF0000?style=for-the-badge&logo=comptia&logoColor=white)
-![CompTIA Network+](https://img.shields.io/badge/CompTIA-Network+-007ACC?style=for-the-badge&logo=comptia&logoColor=white)
-![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security+-8B4513?style=for-the-badge&logo=comptia&logoColor=white)
 
 **🎯 Next Up:** CCNA Exam - Summer 2025
 
