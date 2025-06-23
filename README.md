@@ -18,7 +18,7 @@ const developer = {
   industries: "Regulated environments & enterprise IT",
   currentlyLearning: ["React", "UI/UX Design", "Ansible", "Cursor/Loveable"],
   funFact: "Also a skateboarding historian 🛹",
-  nextGoal: "CCNA exam in April 2025"
+  nextGoal: "CCNA exam in Summer 2025"
 };
 ```
 
@@ -36,11 +36,26 @@ const developer = {
 
 ## 🛠️ Tech Arsenal
 
+### **Programming & Scripting Languages**
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+### **Web Development**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+
 ### **Infrastructure & Networking**
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![Palo Alto](https://img.shields.io/badge/Palo_Alto-FA582D?style=for-the-badge&logo=paloaltonetworks&logoColor=white)
 ![FortiGate](https://img.shields.io/badge/FortiGate-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)
 ![Meraki](https://img.shields.io/badge/Meraki-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Ruckus ICX](https://img.shields.io/badge/Ruckus_ICX-FF6900?style=for-the-badge&logo=ruckuswireless&logoColor=white)
 
 ### **Cloud & Enterprise**
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
@@ -48,16 +63,11 @@ const developer = {
 ![Active Directory](https://img.shields.io/badge/Active_Directory-0078D6?style=for-the-badge&logo=microsoft&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
 
-### **Development & Automation**
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### **Security & Compliance**
+### **Security & Automation**
 ![SAML](https://img.shields.io/badge/SAML-326CE5?style=for-the-badge&logo=auth0&logoColor=white)
 ![SSO](https://img.shields.io/badge/SSO-FF6B35?style=for-the-badge&logo=okta&logoColor=white)
-![VPN](https://img.shields.io/badge/VPN-00D4AA?style=for-the-badge&logo=nordvpn&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![API Integration](https://img.shields.io/badge/API_Integration-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ## 🏆 Certifications & Goals
 
@@ -98,16 +108,6 @@ const developer = {
 - **Tech:** React, D3.js, Python, Network APIs
 - **Why:** Pretty graphs make network problems easier to understand and explain
 - **Features:** Interactive network maps, real-time monitoring, alert management
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=giftedloser&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=giftedloser&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=giftedloser&theme=tokyonight&hide_border=true)
 
 </div>
 
