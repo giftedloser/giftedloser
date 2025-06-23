@@ -138,11 +138,6 @@ const developer = {
 - Tech: Python, Netmiko, TextFSM  
 - Features: Port/VLAN correlation, CDP/LLDP integration, CLI + JSON export
 
-#### 📊 IT Asset Dashboard *(WIP)*  
-> Real-time web interface for device inventory and compliance visibility  
-- Tech: React, FastAPI, SQL Server  
-- Features: Rule-based exception tracking, role-aware views, mobile-friendly design
-
 </div>
 
 ## 🌟 My Development Philosophy
