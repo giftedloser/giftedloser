@@ -154,8 +154,8 @@ const myApproach = {
 
 - 🎨 **UI/UX Design** - Making enterprise tools actually enjoyable to use
 - ⚛️ **React Ecosystem** - Building responsive, interactive dashboards
-- 🤖 **Cursor/Loveable** - AI-powered development tools
-- 📋 **Ansible** - Infrastructure as code for network automation
+- 🤖 **Cursor/Kiro** - AI-powered development tools
+- 📋 **Visio** - Infrastructure diagramming tool for documenting and automating network designs
 - 🛹 **Skateboarding History** - Because everyone needs a hobby that doesn't involve keyboards
 
 ## 💡 What Drives Me
