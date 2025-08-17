@@ -108,62 +108,33 @@ const developer = {
 
 </div>
 
-## 🎯 What I'm Building
-### 🔧 Core Infrastructure Tools (Enterprise-Ready)
+## 🎯 What I'm Building  
+### 🧰 TechOps Toolkit (Enterprise-Ready)  
 
-#### 🧰 PuTTrix - Modern PuTTY Replacement
-> Secure, tabbed SSH/SFTP client with encrypted session vault and IOS config management  
-- Tech: Electron, Node.js, xterm.js, AES-GCM  
-- Why: Because PuTTY is outdated and enterprise ops demand better  
-- Features: Session tagging, SFTP support, config drag/drop, auto login profiles
+#### 🔍 ADFuzzyFind - Inline AD Search & Management  
+> Profile-integrated PowerShell tool for rapid Active Directory lookups and user/computer actions  
+- Tech: PowerShell, ActiveDirectory module  
+- Why: ADUC is slow and rigid; service desk staff need fast fuzzy search with inline actions  
+- Features: Fuzzy/phonetic matching, relevance-ranked results, account status icons, unlock/reset/enable/disable, group removal, computer description updates, domain removal  
 
-#### 🧠 ForestMap - AD Permissions Visualizer
-> Interactive tool to visualize Active Directory relationships and GPO scoping  
-- Tech: PowerShell, React, D3.js  
-- Why: Nested group permission chains shouldn't require guesswork  
-- Features: DAG rendering, user/group tracing, export to PNG/CSV
+#### 📊 ADFuzzyReporting - AD Reporting Suite (Inline + GUI)  
+> Hybrid reporting system with both inline PowerShell dashboard and full standalone GUI  
+- Tech: PowerShell, WPF, ActiveDirectory module  
+- Why: AD reporting is fragmented; admins need a single-pane reporting interface for compliance and operations  
+- Features: Console dashboard with menu-driven reports, QuickMode summaries, custom query builder, standalone GUI for non-PowerShell users, CSV export with timestamped filenames, activity/security/OU/device lifecycle analysis  
 
-#### 🛠️ WIMForge - ISO Surgery & WIM Toolkit
-> ISO rebuilder with unattended injection, WIM splitting, and DISM driver layering  
-- Tech: PowerShell, DISM, oscdimg  
-- Why: You shouldn't need 6 tools to make a bootable ISO  
-- Features: Auto 4GB+ WIM handling, driver/script injection, full CLI + WPF GUI
+#### 🖨️ PrinterOps - Enterprise Print Management  
+> Inline PowerShell tool for managing printers in domain environments with centralized print servers  
+- Tech: PowerShell, Windows Print Management, Group Policy fallback  
+- Why: Printer deployments are often unreliable without robust GPOs; admins need granular device-level control  
+- Features: Inline printer add/remove, connection repair, cglobal mapping support, print server integration, user/device scoped operations  
 
-#### 💻 UForge - Device Provisioning Pipeline
-> Asset-based image generator that builds custom Windows ISOs from CSV input  
-- Tech: PowerShell, Python, XML schema validation  
-- Why: Imaging should be scalable, repeatable, and hardware-aware  
-- Features: Driver injection, unattend merging, ISO rebuild with per-host config
+#### 📚 DocuBrowse - IT Documentation Manager  
+> Unified front end for browsing, indexing, and managing IT documentation libraries  
+- Tech: PowerShell, OCR, full-text indexing, 365 API integration  
+- Why: IT teams lose time digging through scattered PDFs, txt files, and 365 docs; a searchable organizer is essential  
+- Features: Document categorization, OCR-based text extraction, metadata tagging, search/indexing engine, inline preview, external file system + cloud integration  
 
-#### 🌐 PXEForge - PXE Boot Manager
-> Flask-based system to control TFTP/iPXE via web interface and YAML-defined profiles  
-- Tech: Python, Flask, YAML, syslinux  
-- Why: PXE workflows should be centralized and versioned  
-- Features: ISO/WIM upload, auto profile rendering, iPXE & pxelinux config engine
-
----
-
-### 🧪 Engineering Experiments & CLI Utilities
-
-#### 🔍 NetDiff -  Live Config Diff Viewer
-> CLI/GUI tool to compare network configs and classify changes by intent  
-- Tech: Python, difflib, tkinter  
-- Features: ACL/interface diffing, export to HTML/PDF, tag-aware line change classification
-
-#### ⚙️ IaCTrace - Infra-as-Code Exporter
-> Converts AD/GPO/switch/firewall configs into HCL or YAML IaC definitions  
-- Tech: PowerShell, Python, Jinja2  
-- Features: Terraform-ready exports, dry-run mode, schema enforcement
-
-#### 🔐 Encclave - Secure Vault CLI
-> Encrypted credential store with rotation tracking and AD login checks  
-- Tech: Python, AES-GCM, DPAPI fallback  
-- Features: Audit trail logging, expiry detection, full import/export system
-
-#### 🛰️ TrunkView - VLAN Mapper
-> SNMP/SSH-driven VLAN-to-port mapper with config parsing and Visio output  
-- Tech: Python, Netmiko, TextFSM  
-- Features: Port/VLAN correlation, CDP/LLDP integration, CLI + JSON export
 
 </div>
 
