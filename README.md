@@ -129,7 +129,7 @@ const developer = {
 - Why: Printer deployments are often unreliable without robust GPOs; admins need granular device-level control  
 - Features: Inline printer add/remove, connection repair, cglobal mapping support, print server integration, user/device scoped operations  
 
-#### 📚 DocuBrowse - IT Documentation Manager  
+#### 📚 Name TBD - IT Documentation Manager  
 > Unified front end for browsing, indexing, and managing IT documentation libraries  
 - Tech: PowerShell, OCR, full-text indexing, 365 API integration  
 - Why: IT teams lose time digging through scattered PDFs, txt files, and 365 docs; a searchable organizer is essential  
