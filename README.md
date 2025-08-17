@@ -25,7 +25,7 @@ const developer = {
 ## 💼 What I Do
 
 **🎯 Current Focus: Network Engineer expanding into full-stack development
-**📍 Location:** Denver, CO  
+**📍 Location:** Denver, CO
 **🔥 Mission:** Creating beautiful, functional tools that solve real IT problems
 
 ### My Unique Approach
