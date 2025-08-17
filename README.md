@@ -18,7 +18,7 @@ const developer = {
   industries: "Regulated environments & enterprise IT",
   currentlyLearning: ["React", "UI/UX Design", "Ansible", "Cursor/Loveable"],
   funFact: "Also a skateboarding historian 🛹",
-  nextGoal: "CCNA exam in Summer 2025"
+  nextGoal: "CCNA exam in  2025"
 };
 ```
 
