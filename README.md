@@ -16,7 +16,7 @@ const developer = {
   specialization: ["Security", "Networking", "Switch Configs", "Automation"],
   passion: "Building tools that make work easier",
   industries: "Regulated environments & enterprise IT",
-  currentlyLearning: ["React", "UI/UX Design", "Ansible", "Cursor/Loveable"],
+  currentlyLearning: ["React", "UI/UX Design", "Visio", "Cursor/Loveable"],
   funFact: "Also a skateboarding historian 🛹",
   nextGoal: "CCNA exam in  2025"
 };
