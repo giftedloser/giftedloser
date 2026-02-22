@@ -1,5 +1,4 @@
-# Marshall Jarvis
-
+# GiftedLoser
 <div align="center">
 
 ![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Network+Engineer+%E2%86%92+Developer;Building+Tools+That+Actually+Work;IT+Automation+%7C+Apps+%7C+Games;Security-First.+Ship-Fast.+No+Bloat.)
