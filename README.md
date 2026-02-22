@@ -24,7 +24,6 @@ TypeScript · React · Tauri · Electron · Python · PowerShell · SQLite · No
 
 **Open to** freelance work on IT tooling, automation, and B2B desktop apps.
 
-[LinkedIn](https://linkedin.com/in/marshalljarvis) · [marshall.jarvis@outlook.com](mailto:marshall.jarvis@outlook.com)
 
 ---
 
