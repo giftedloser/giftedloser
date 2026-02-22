@@ -18,7 +18,6 @@ const developer = {
   industries: "Regulated environments & enterprise IT",
   currentlyLearning: ["React", "UI/UX Design", "Visio", "Cursor/Loveable"],
   funFact: "Also a skateboarding historian 🛹",
-  nextGoal: "CCNA exam in  2025"
 };
 ```
 
@@ -109,31 +108,8 @@ const developer = {
 </div>
 
 ## 🎯 What I'm Building  
-### 🧰 TechOps Toolkit (Enterprise-Ready)  
 
-#### 🔍 ADFuzzyFind - Inline AD Search & Management  
-> Profile-integrated PowerShell tool for rapid Active Directory lookups and user/computer actions  
-- Tech: PowerShell, ActiveDirectory module  
-- Why: ADUC is slow and rigid; service desk staff need fast fuzzy search with inline actions  
-- Features: Fuzzy/phonetic matching, relevance-ranked results, account status icons, unlock/reset/enable/disable, group removal, computer description updates, domain removal  
 
-#### 📊 ADFuzzyReporting - AD Reporting Suite (Inline + GUI)  
-> Hybrid reporting system with both inline PowerShell dashboard and full standalone GUI  
-- Tech: PowerShell, WPF, ActiveDirectory module  
-- Why: AD reporting is fragmented; admins need a single-pane reporting interface for compliance and operations  
-- Features: Console dashboard with menu-driven reports, QuickMode summaries, custom query builder, standalone GUI for non-PowerShell users, CSV export with timestamped filenames, activity/security/OU/device lifecycle analysis  
-
-#### 🖨️ PrinterOps - Enterprise Print Management  
-> Inline PowerShell tool for managing printers in domain environments with centralized print servers  
-- Tech: PowerShell, Windows Print Management, Group Policy fallback  
-- Why: Printer deployments are often unreliable without robust GPOs; admins need granular device-level control  
-- Features: Inline printer add/remove, connection repair, cglobal mapping support, print server integration, user/device scoped operations  
-
-#### 📚 Name TBD - IT Documentation Manager  
-> Unified front end for browsing, indexing, and managing IT documentation libraries  
-- Tech: PowerShell, OCR, full-text indexing, 365 API integration  
-- Why: IT teams lose time digging through scattered PDFs, txt files, and 365 docs; a searchable organizer is essential  
-- Features: Document categorization, OCR-based text extraction, metadata tagging, search/indexing engine, inline preview, external file system + cloud integration  
 
 
 </div>
