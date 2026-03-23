@@ -16,7 +16,7 @@ Network engineer and IT analyst. I build desktop tools for the people who keep i
 
 📜 **[Scriptographer](https://github.com/giftedloser/scriptographer)** — Script deployment tool for Windows domain admins. Multi-target execution, real-time logging, Monaco editor. `Electron` `React` `PowerShell`
 
-🧊 **Folio** — Infinite canvas workspace. One canvas per project, everything local, nothing in the cloud until you want it. *In development.*
+
 
 ---
 
