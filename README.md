@@ -16,7 +16,11 @@ Network engineer and IT analyst. I build desktop tools for the people who keep i
 
 📜 **[Scriptographer](https://github.com/giftedloser/scriptographer)** — Script deployment tool for Windows domain admins. Multi-target execution, real-time logging, Monaco editor. `Electron` `React` `PowerShell`
 
+🔮 **[Redacted]**
 
+🔮 **[Redacted]**
+
+🔮 **[Redacted]**
 
 ---
 
