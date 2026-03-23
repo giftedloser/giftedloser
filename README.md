@@ -37,4 +37,3 @@ Open to freelance work on IT tooling, automation, and B2B desktop applications.
 
 ---
 
-![Metrics](https://raw.githubusercontent.com/giftedloser/giftedloser/main/github-metrics.svg)
