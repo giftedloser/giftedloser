@@ -27,7 +27,7 @@ Network engineer and IT analyst. I build desktop tools for the people who keep i
 
 `TypeScript` `React` `Rust` `Tauri` `Electron` `Python` `PowerShell` `SQLite`
 
-Windows-first. Enterprise-native. I work with the APIs IT teams actually use — Windows Credential Manager, WinHTTP, Active Directory, SCCM, RDP/RDS.
+Windows-first. Enterprise-native. I work with the APIs IT teams actually use — Windows Credential Manager, Active Directory, SCCM, RDP/RDS.
 
 ---
 
