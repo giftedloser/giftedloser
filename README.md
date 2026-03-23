@@ -1,21 +1,37 @@
 # Marshall Jarvis
 
-Network engineer and IT analyst with a passion for building great tools.
+Network engineer and IT analyst. I build desktop tools for the people who keep infrastructure running.
 
-## Projects
+### What I'm working on
 
-| | |
-|---|---|
-| **[Reach](https://github.com/giftedloser/Reach)** | Unified launcher for RDP, SSH, local apps, and RD Web feeds. Per-connection credential management with Windows Credential Manager. Tauri 2 + React. |
-| **[Scriptographer](https://github.com/giftedloser/scriptographer)** | Script deployment tool for Windows domain admins. Multi-target execution, real-time logging, Monaco editor. |
-| **Folio** | Infinite canvas workspace. One canvas per project, everything local. *In development.* |
+- **Building** — Desktop apps that solve real IT admin pain points. Tauri, React, PowerShell.
+- **Day job** — Enterprise networking and systems. The problems I hit at work become the tools I ship at night.
+- **LoserLabs** — My umbrella for everything I build and release.
 
-## Stack
+---
 
-`TypeScript` `React` `Rust` `Tauri` `Python` `PowerShell` `SQLite` `Electron`
+### Projects
 
-## Contact
+🚀 **[Reach](https://github.com/giftedloser/Reach)** — Unified launcher for RDP, SSH, local apps, and RD Web feeds. Per-connection credentials via Windows Credential Manager. Auto-login, password rotation, three themes. `Tauri 2` `React` `Rust` `SQLite`
+
+📜 **[Scriptographer](https://github.com/giftedloser/scriptographer)** — Script deployment tool for Windows domain admins. Multi-target execution, real-time logging, Monaco editor. `Electron` `React` `PowerShell`
+
+🧊 **Folio** — Infinite canvas workspace. One canvas per project, everything local, nothing in the cloud until you want it. *In development.*
+
+---
+
+### Stack
+
+`TypeScript` `React` `Rust` `Tauri` `Electron` `Python` `PowerShell` `SQLite`
+
+Windows-first. Enterprise-native. I work with the APIs IT teams actually use — Windows Credential Manager, WinHTTP, Active Directory, SCCM, RDP/RDS.
+
+---
+
+### Contact
 
 Open to freelance work on IT tooling, automation, and B2B desktop applications.
+
+---
 
 ![Metrics](https://raw.githubusercontent.com/giftedloser/giftedloser/main/github-metrics.svg)
