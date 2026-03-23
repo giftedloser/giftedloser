@@ -1,32 +1,23 @@
-# Hey, I'm Marshall
+# Marshall Jarvis
 
-Network engineer by trade. Developer by necessity — and now by choice.
+Network engineer turned developer. I build desktop tools and automation for IT teams managing real enterprise environments.
 
-I've spent years keeping enterprise infrastructure running: Cisco, Palo Alto, Azure, Active Directory, the whole stack. Somewhere along the way I started writing tools to make the job less painful, and I got hooked.
+**Background** &mdash; Cisco, Palo Alto, Azure, Active Directory, Windows Server. Years of infrastructure work led to writing the tools I wished existed.
 
-Now I build desktop apps and automation tools for the people who keep IT running. Real problems, real environments, no fluff.
+## Projects
 
----
+| | |
+|---|---|
+| **[Reach](https://github.com/giftedloser/Reach)** | Unified launcher for RDP, SSH, local apps, and RD Web feeds. Per-connection credential management with Windows Credential Manager integration. Tauri 2 + React. |
+| **[Scriptographer](https://github.com/giftedloser/scriptographer)** | Script deployment tool for Windows domain admins. Multi-target execution, real-time logging, Monaco editor. |
+| **Folio** | Infinite canvas workspace. One canvas per project, everything local. *In development.* |
 
-**Currently building**
+## Stack
 
-[Scriptographer](https://github.com/giftedloser/scriptographer) — a script deployment tool for Windows domain admins. Multi-target execution, real-time logging, Monaco editor. Ships to real environments.
+`TypeScript` `React` `Rust` `Tauri` `Python` `PowerShell` `SQLite` `Electron`
 
-Folio *(in progress)* — an infinite canvas workspace for people juggling too many projects. One canvas per project, everything local, nothing in the cloud until you want it.
+## Contact
 
----
-
-**Stack**
-
-TypeScript · React · Tauri · Electron · Python · PowerShell · SQLite · Node.js
-
----
-
-**Open to** freelance work on IT tooling, automation, and B2B desktop apps.
-
-
----
-
-*Also a skateboarding historian. Everyone needs one thing that has nothing to do with computers.*
+Open to freelance work on IT tooling, automation, and B2B desktop applications.
 
 ![Metrics](https://raw.githubusercontent.com/giftedloser/giftedloser/main/github-metrics.svg)
