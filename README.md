@@ -11,7 +11,7 @@ Network engineer and IT analyst. I build desktop tools for the people who keep i
 
 ### Projects
 
-🚀 **[Reach](https://github.com/giftedloser/Reach)** — Unified launcher for RDP, SSH, local apps, and RD Web feeds. Per-connection credentials via Windows Credential Manager. Auto-login, password rotation, three themes. `Tauri 2` `React` `Rust` `SQLite`
+🚀 **[Reach](https://github.com/giftedloser/Reach)** — A desktop launcher for RDP, SSH, local apps, and RemoteApps. Windows. Built with Tauri + React. Per-connection credentials via Windows Credential Manager. Auto-login, password rotation, three themes. `Tauri 2` `React` `Rust` `SQLite`
 
 📜 **[Scriptographer](https://github.com/giftedloser/scriptographer)** — Script deployment tool for Windows domain admins. Multi-target execution, real-time logging, Monaco editor. `Electron` `React` `PowerShell`
 
