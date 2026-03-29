@@ -1,11 +1,10 @@
 # Hey, I'm Marshall!
-Network engineer and IT analyst. I build desktop tools for the people who keep infrastructure running.
-
+I build practical software for infrastructure, security, and IT operations. My work focuses on desktop tooling, automation, and internal systems for the people keeping enterprise environments running.
 ### What I'm working on
 
-- **Building** — Desktop apps that solve real IT admin pain points. Tauri, React, PowerShell.
-- **Day job** — Enterprise networking and systems. The problems I hit at work become the tools I ship at night.
-- **LoserLabs** — My umbrella for everything I build and release.
+- **Building** — Desktop apps and internal tools that solve real admin and operations pain points using Tauri, React, PowerShell, and related tooling.
+- **Day job** — Enterprise networking, systems, and security in regulated environments.
+- **LoserLabs** — my umbrella for practical software, internal tools, open-source projects, and experiments
 
 ---
 
