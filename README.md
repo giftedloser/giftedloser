@@ -4,7 +4,7 @@ I build practical software for infrastructure, security, and IT operations. My w
 
 - **Building** — Desktop apps and internal tools that solve real admin and operations pain points using Tauri, React, PowerShell, and related tooling.
 - **Day job** — Enterprise networking, systems, and security in regulated environments.
-- **LoserLabs** — my umbrella for practical software, internal tools, open-source projects, and experiments
+- **LoserLabs** — Founded in February 2026 to build custom software, internal tools, open-source projects, and applied experiments.
 
 ---
 
@@ -32,7 +32,7 @@ Windows-first. Enterprise-native. I work with the APIs IT teams actually use —
 
 ### Contact
 
-Open to freelance work on IT tooling, automation, and B2B desktop applications.
+Open to freelance work focused on internal tooling, automation, custom software, and B2B desktop applications.
 
 ---
 
