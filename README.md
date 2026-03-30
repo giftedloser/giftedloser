@@ -14,6 +14,8 @@ I build practical software for infrastructure, security, and IT operations. My w
 
 📜 **[Scriptographer](https://github.com/giftedloser/scriptographer)** — Script deployment tool for Windows domain admins. Multi-target execution, real-time logging, Monaco editor. `Electron` `React` `PowerShell`
 
+🌳 **[Fuzzy Forest](https://github.com/giftedloser/FuzzyForest)** — Fuzzy Forest is a modern Windows-native Active Directory management tool built with Tauri, React, TypeScript, and Rust—designed to streamline everyday admin tasks without relying on legacy MMC tools. `Tauri` `Rust` `React` `Typescript` 
+
 ✍️ **[Jot ](in development)** - A spatial canvas for notes and live terminals. Think, build, and capture — all on one infinite surface. `Tauri 2` `React` `Rust` `Typescript` `css`
 
 ---
