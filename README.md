@@ -4,7 +4,7 @@ I build practical software for infrastructure, security, and IT operations. My w
 
 - **Building** — Desktop apps and internal tools that solve real admin and operations pain points using Tauri, React, PowerShell, and related tooling.
 - **Day job** — Enterprise networking, systems, and security in regulated environments.
-- **LoserLabs** — Founded in February 2026 to build custom software, internal tools, open-source projects, and applied experiments.
+- **loserlabs.dev** — Founded in February 2026 to build custom software, internal tools, open-source projects, and applied experiments.
 
 ---
 
