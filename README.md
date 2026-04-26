@@ -13,7 +13,7 @@ Loser Labs is everything else — music, 3D files, templates, open source, and w
 </div>
 
 ---  
-# 🚀 Projects
+🚀 Projects
 
 <table>
 <tr>
