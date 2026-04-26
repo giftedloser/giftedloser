@@ -3,8 +3,6 @@
 
 Hey, I'm Marshall — aka `giftedloser` 👋
 
-**I build practical software for infrastructure, security, and IT operations.**
-
 *Desktop tooling · Automation · Internal systems — for the people keeping enterprise environments running.*
 
 [![loserlabs.dev](https://img.shields.io/badge/loserlabs.dev-111111?style=for-the-badge&logoColor=white)](https://loserlabs.dev)
@@ -80,8 +78,7 @@ Correlates device identity across Microsoft systems, surfaces broken devices, an
 
 <div align="center">
 
-**Open to freelance** focused on internal tooling, automation, custom software, and B2B desktop applications.
 
-[loserlabs.dev](https://loserlabs.dev) · [github.com/giftedloser](https://github.com/giftedloser)
+[loserlabs.dev](https://loserlabs.dev) 
 
 </div>
