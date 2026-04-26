@@ -1,14 +1,18 @@
 <div align="center">
-<img src="https://github.com/user-attachments/assets/a4a226e8-5050-429b-93c1-79bb1f5c052b" width="150" alt="Loser Labs Mascot" />
 
-Hey, I'm Marshall — aka `giftedloser` 👋
+<img src="https://github.com/user-attachments/assets/a4a226e8-5050-429b-93c1-79bb1f5c052b" width="150" />
 
-I build the tools I wish existed — desktop apps, automation, and internal systems using Tauri, React, Rust, and PowerShell.
+# Marshall — `giftedloser`
 
-Loser Labs is everything else — music, 3D files, templates, open source, and whatever else I'm into.
+I build the tools I wish existed.
 
-[![loserlabs.dev](https://img.shields.io/badge/loserlabs.dev-111111?style=for-the-badge&logoColor=white)](https://loserlabs.dev)
-[![Open to Freelance](https://img.shields.io/badge/●_Open_to_Freelance-2ea44f?style=for-the-badge)]()
+Desktop apps · Automation · Internal systems  
+Tauri · React · Rust · PowerShell
+
+Loser Labs = everything else  
+music · 3D files · templates · open source · experiments
+
+[loserlabs.dev](https://loserlabs.dev) · Open to Freelance
 
 </div>
 
