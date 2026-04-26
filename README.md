@@ -77,6 +77,7 @@ Correlates device identity across Microsoft systems, surfaces broken devices, an
 </tr>
 </table>
 
+
 <div align="center">
 
 **Open to freelance** focused on internal tooling, automation, custom software, and B2B desktop applications.
