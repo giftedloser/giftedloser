@@ -1,11 +1,11 @@
 <div align="center">
 <img src="https://github.com/user-attachments/assets/a4a226e8-5050-429b-93c1-79bb1f5c052b" width="150" alt="Loser Labs Mascot" />
 
-<div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=200&section=header&text=Hey,%20I'm%20Marshall&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=aka%20giftedloser&descSize=25&descAlignY=75&fontAlignY=40" />
 
-<img src="https://github.com/user-attachments/assets/a4a226e8-5050-429b-93c1-79bb1f5c052b" width="150" alt="Loser Labs Mascot" />
-</div>
+
+
 
 
 ### I build practical software for infrastructure, security, and IT operations.
