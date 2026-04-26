@@ -1,7 +1,9 @@
 <div align="center">
 <img src="https://github.com/user-attachments/assets/a4a226e8-5050-429b-93c1-79bb1f5c052b" width="150" alt="Loser Labs Mascot" />
 
-# Hey, I'm Marshall. 👋
+### Hey, I'm —
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=1000&color=FFFFFF&center=true&vCenter=true&width=300&lines=Marshall.+👋;giftedloser.+👋)](https://git.io/typing-svg)
 
 ### I build practical software for infrastructure, security, and IT operations.
 
