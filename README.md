@@ -1,19 +1,21 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/a4a226e8-5050-429b-93c1-79bb1f5c052b" width="150" alt="Loser Labs Mascot" />
+<img src="https://github.com/user-attachments/assets/a4a226e8-5050-429b-93c1-79bb1f5c052b" width="150" alt="Loser Labs Mascot" />
 
-  # Marshall Jarvis / `giftedloser`
+Hey, I'm Marshall — aka `giftedloser` 👋
 
-  **I build software for operators — and everything else I find worth making.**
+**I build practical software for infrastructure, security, and IT operations.**
 
-  Desktop tooling · Infrastructure · Security · Automation
-  Music tools · Templates · STL files · Experiments
+*Desktop tooling · Automation · Internal systems — for the people keeping enterprise environments running.*
 
-  [![loserlabs.dev](https://img.shields.io/badge/loserlabs.dev-111111?style=for-the-badge&logoColor=white)](https://loserlabs.dev)
-  [![Windows First](https://img.shields.io/badge/Windows--first-0078D4?style=for-the-badge&logo=windows&logoColor=white)]()
-  [![Open to Freelance](https://img.shields.io/badge/Open_to_Freelance-2ea44f?style=for-the-badge)]()
+[![loserlabs.dev](https://img.shields.io/badge/loserlabs.dev-111111?style=for-the-badge&logoColor=white)](https://loserlabs.dev)
+[![Windows](https://img.shields.io/badge/Windows--first-0078D4?style=for-the-badge&logo=windows&logoColor=white)]()
+[![Open to Freelance](https://img.shields.io/badge/●_Open_to_Freelance-2ea44f?style=for-the-badge)]()
+
 </div>
 
----
+- 🔧 **Building** — Desktop apps and internal tools that solve real admin and operations pain points using Tauri, React, PowerShell, and related tooling.
+- 💼 **Day job** — Enterprise networking, systems, and security in regulated environments.
+- 🌐 **[loserlabs.dev](https://loserlabs.dev)** — Founded February 2026 to build custom software, internal tools, open-source projects, and applied experiments.
 
 ## 🚀 Projects
 
@@ -21,8 +23,10 @@
 <tr>
 <td width="50%" valign="top">
 
-### [Reach](https://github.com/giftedloser/Reach)
-Desktop launcher for RDP, SSH, local apps, and RemoteApps.
+### ⚡ [Reach](https://github.com/giftedloser/Reach)
+**Desktop launcher for RDP, SSH, local apps & RemoteApps**
+
+Per-connection credentials via Windows Credential Manager. Auto-login, password rotation, three themes. The connection manager your team actually deserves.
 
 ![Tauri](https://img.shields.io/badge/Tauri-24C8D8?style=flat-square&logo=tauri&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -32,8 +36,10 @@ Desktop launcher for RDP, SSH, local apps, and RemoteApps.
 </td>
 <td width="50%" valign="top">
 
-### [Canopy](https://github.com/giftedloser/Canopy)
-Modern Windows-native Active Directory management.
+### 🌳 [Canopy](https://github.com/giftedloser/Canopy)
+**Modern Windows-native Active Directory management**
+
+Built to replace legacy MMC snap-ins. Streamlines everyday admin tasks with a UI that doesn't feel like 2003.
 
 ![Tauri](https://img.shields.io/badge/Tauri-24C8D8?style=flat-square&logo=tauri&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -45,8 +51,10 @@ Modern Windows-native Active Directory management.
 <tr>
 <td width="50%" valign="top">
 
-### [Scriptographer](https://github.com/giftedloser/scriptographer)
-Script deployment tool for domain admins.
+### 📜 [Scriptographer](https://github.com/giftedloser/scriptographer)
+**Script deployment tool for domain admins**
+
+Multi-target execution, real-time logging, Monaco editor for authoring. Kills the "run and pray" workflow.
 
 ![Electron](https://img.shields.io/badge/Electron-191970?style=flat-square&logo=electron&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -55,8 +63,10 @@ Script deployment tool for domain admins.
 </td>
 <td width="50%" valign="top">
 
-### [Runway](https://github.com/giftedloser/PilotCheck)
-Local-first Autopilot, Intune, Entra, and SCCM triage.
+### 🛫 [Runway](https://github.com/giftedloser/PilotCheck)
+**Local-first Autopilot · Intune · Entra · SCCM triage**
+
+Correlates device identity across Microsoft systems, surfaces broken devices, and tells you exactly why — without the console-hopping. No cloud. No telemetry.
 
 ![Tauri](https://img.shields.io/badge/Tauri-24C8D8?style=flat-square&logo=tauri&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -69,11 +79,7 @@ Local-first Autopilot, Intune, Entra, and SCCM triage.
 
 <div align="center">
 
----
-
-**Loser Labs** — software, tools, and experiments.
-
-Open to freelance: internal tooling, automation, and Windows-first desktop applications.
+**Open to freelance** focused on internal tooling, automation, custom software, and B2B desktop applications.
 
 [loserlabs.dev](https://loserlabs.dev) · [github.com/giftedloser](https://github.com/giftedloser)
 
