@@ -1,13 +1,10 @@
 <div align="center">
 <img src="https://github.com/user-attachments/assets/a4a226e8-5050-429b-93c1-79bb1f5c052b" width="150" alt="Loser Labs Mascot" />
 
+# Hey, I'm Marshall — aka `giftedloser` 👋
 
-### Hey, I'm Marshall
+### I build practical software for infrastructure, security, and IT operations.
 
-
-
-
-## I build practical software for infrastructure, security, and IT operations.
 
 **Desktop tooling · Automation · Internal systems — for the people keeping enterprise environments running.**
 
