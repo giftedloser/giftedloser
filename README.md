@@ -1,38 +1,108 @@
-<!-- loserlabs.dev // Marshall -->
+<div align="center">
 
-# Desktop tools for people who keep things running.
+# Hey, I'm Marshall. 👋
 
-Infrastructure, security & automation — built for enterprise environments by someone who actually works in one. Founded [loserlabs.dev](https://loserlabs.dev) in February 2026.
+### I build practical software for infrastructure, security, and IT operations.
+**Desktop tooling · Automation · Internal systems — for the people keeping enterprise environments running.**
 
----
+[![loserlabs.dev](https://img.shields.io/badge/loserlabs.dev-000000?style=for-the-badge&logoColor=white)](https://loserlabs.dev)
+[![Windows](https://img.shields.io/badge/Windows--first-0078D4?style=for-the-badge&logo=windows&logoColor=white)]()
+[![Open to Freelance](https://img.shields.io/badge/%E2%97%8F%20Open%20to%20Freelance-2ea44f?style=for-the-badge)]()
 
-I build **Windows-native tooling** for IT admins and operations teams — the kind of software that replaces brittle scripts and legacy MMC snap-ins with something that actually feels good to use. Day job is enterprise networking, systems, and security in regulated environments. Nights and weekends I ship.
-
----
-
-## Projects
-
-| Project | Status | Description | Stack |
-|---|---|---|---|
-| [**Reach**](https://github.com/giftedloser/Reach) | `live` | Desktop launcher for RDP, SSH, local apps, and RemoteApps. Per-connection credentials via Windows Credential Manager, auto-login, password rotation, three themes. | Tauri 2 · React · Rust · SQLite |
-| [**Canopy**](https://github.com/giftedloser/Canopy) | `live` | Modern Windows-native Active Directory management. Built to replace legacy MMC — streamlines everyday admin tasks with a UI that doesn't feel like 2003. | Tauri · React · TypeScript · Rust |
-| [**Scriptographer**](https://github.com/giftedloser/scriptographer) | `live` | Script deployment tool for domain admins. Multi-target execution, real-time logging, Monaco editor. Kills the "run and pray" workflow. | Electron · React · PowerShell |
-| [**Runway**](https://github.com/giftedloser/PilotCheck) | `live` | Local-first triage console for Windows Autopilot, Intune, Entra ID, and SCCM. Correlates device identity across systems, surfaces broken devices, and tells you exactly why — without the console-hopping. | Tauri 2 · React · TypeScript · SQLite |
+</div>
 
 ---
 
-## Stack
-
-**Frontend** — TypeScript · React · Tauri · Electron  
-**Systems** — Rust · PowerShell · SQLite · Python  
-**Enterprise APIs** — Active Directory · Windows Credential Manager · SCCM · RDP/RDS · Microsoft Graph
-
-Windows-first. Enterprise-native.
+- 🔧 **Building** — Desktop apps and internal tools that solve real admin and operations pain points using Tauri, React, PowerShell, and related tooling.
+- 💼 **Day job** — Enterprise networking, systems, and security in regulated environments.
+- 🌐 **[loserlabs.dev](https://loserlabs.dev)** — Founded February 2026 to build custom software, internal tools, open-source projects, and applied experiments.
 
 ---
 
-## Work
+## 🚀 Projects
 
-Open to freelance focused on **internal tooling, automation, custom software, and B2B desktop applications.**
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [Reach](https://github.com/giftedloser/Reach)
+**Desktop launcher for RDP, SSH, local apps & RemoteApps**
+
+Per-connection credentials via Windows Credential Manager. Auto-login, password rotation, three themes. The connection manager your team actually deserves.
+
+![Tauri](https://img.shields.io/badge/Tauri-24C8D8?style=flat-square&logo=tauri&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### [Canopy](https://github.com/giftedloser/Canopy)
+**Modern Windows-native Active Directory management**
+
+Built to replace legacy MMC snap-ins. Streamlines everyday admin tasks with a UI that doesn't feel like 2003.
+
+![Tauri](https://img.shields.io/badge/Tauri-24C8D8?style=flat-square&logo=tauri&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [Scriptographer](https://github.com/giftedloser/scriptographer)
+**Script deployment tool for domain admins**
+
+Multi-target execution, real-time logging, Monaco editor for authoring. Kills the "run and pray" workflow.
+
+![Electron](https://img.shields.io/badge/Electron-191970?style=flat-square&logo=electron&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### [Runway](https://github.com/giftedloser/PilotCheck)
+**Local-first Autopilot · Intune · Entra · SCCM triage**
+
+Correlates device identity across Microsoft systems, surfaces broken devices, and tells you exactly why — without the console-hopping. No cloud. No telemetry.
+
+![Tauri](https://img.shields.io/badge/Tauri-24C8D8?style=flat-square&logo=tauri&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠 Stack
+
+<div align="center">
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Tauri](https://img.shields.io/badge/Tauri-24C8D8?style=for-the-badge&logo=tauri&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=electron&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+
+</div>
+
+---
+
+<div align="center">
+
+**Open to freelance** focused on internal tooling, automation, custom software, and B2B desktop applications.
 
 [loserlabs.dev](https://loserlabs.dev) · [github.com/giftedloser](https://github.com/giftedloser)
+
+</div>
