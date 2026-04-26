@@ -80,7 +80,6 @@ Correlates device identity across Microsoft systems, surfaces broken devices, an
 
 <div align="center">
 
-**Open to freelance** focused on internal tooling, automation, custom software, and B2B desktop applications.
 
 [loserlabs.dev](https://loserlabs.dev) · [github.com/giftedloser](https://github.com/giftedloser)
 
