@@ -3,10 +3,10 @@
 
 Hey, I'm Marshall — aka `giftedloser` 👋
 
-**I build desktop tools and automation for IT and enterprise environments.**
-Tauri · React · Rust · PowerShell · TypeScript — whatever the job needs.
+**Enterprise IT admin — networking, systems, and security.**
+I build the tools I wish existed: desktop apps, automation, and internal systems using Tauri, React, Rust, and PowerShell.
 
-When I'm not fixing things that shouldn't be broken, I'm making music, designing 3D files, building templates, and running experiments over at [loserlabs.dev](https://loserlabs.dev) — my personal lab for whatever I feel like shipping.
+Loser Labs is everything else — music, 3D files, templates, open source, and whatever else I'm into.
 
 [![loserlabs.dev](https://img.shields.io/badge/loserlabs.dev-111111?style=for-the-badge&logoColor=white)](https://loserlabs.dev)
 [![Open to Freelance](https://img.shields.io/badge/●_Open_to_Freelance-2ea44f?style=for-the-badge)]()
