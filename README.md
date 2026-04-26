@@ -1,32 +1,36 @@
 <div align="center">
-<img src="https://github.com/user-attachments/assets/a4a226e8-5050-429b-93c1-79bb1f5c052b" width="150" alt="Loser Labs Mascot" />
+  <img src="https://github.com/user-attachments/assets/a4a226e8-5050-429b-93c1-79bb1f5c052b" width="150" alt="Loser Labs Mascot" />
 
-Hey, I'm Marshall — aka `giftedloser` 👋
+  # Marshall Jarvis / `giftedloser`
 
-**I build practical software for infrastructure, security, and IT operations.**
+  **Windows-first software for infrastructure, security, and IT operations**
 
-*Desktop tooling · Automation · Internal systems — for the people keeping enterprise environments running.*
+  Desktop tooling · Automation · Internal systems · Enterprise admin workflows
 
-[![loserlabs.dev](https://img.shields.io/badge/loserlabs.dev-111111?style=for-the-badge&logoColor=white)](https://loserlabs.dev)
-[![Windows](https://img.shields.io/badge/Windows--first-0078D4?style=for-the-badge&logo=windows&logoColor=white)]()
-[![Open to Freelance](https://img.shields.io/badge/●_Open_to_Freelance-2ea44f?style=for-the-badge)]()
-
+  [![loserlabs.dev](https://img.shields.io/badge/loserlabs.dev-111111?style=for-the-badge&logoColor=white)](https://loserlabs.dev)
+  [![Windows First](https://img.shields.io/badge/Windows--first-0078D4?style=for-the-badge&logo=windows&logoColor=white)]()
+  [![Open to Freelance](https://img.shields.io/badge/Open_to_Freelance-2ea44f?style=for-the-badge)]()
 </div>
 
-- 🔧 **Building** — Desktop apps and internal tools that solve real admin and operations pain points using Tauri, React, PowerShell, and related tooling.
-- 💼 **Day job** — Enterprise networking, systems, and security in regulated environments.
-- 🌐 **[loserlabs.dev](https://loserlabs.dev)** — Founded February 2026 to build custom software, internal tools, open-source projects, and applied experiments.
+---
 
-## 🚀 Projects
+## What I build
+
+I build practical software for the people responsible for keeping enterprise environments running: desktop tools, automation systems, admin utilities, and internal platforms that reduce console-hopping, manual triage, and brittle operational workflows.
+
+Currently focused on Tauri, React, TypeScript, Rust, PowerShell, SQLite, Windows administration, endpoint management, Active Directory, Intune, Entra, SCCM, and security operations.
+
+## Featured projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### ⚡ [Reach](https://github.com/giftedloser/Reach)
-**Desktop launcher for RDP, SSH, local apps & RemoteApps**
+### [Reach](https://github.com/giftedloser/Reach)
 
-Per-connection credentials via Windows Credential Manager. Auto-login, password rotation, three themes. The connection manager your team actually deserves.
+**Desktop launcher for RDP, SSH, local apps, and RemoteApps**
+
+Per-connection credentials via Windows Credential Manager, auto-login, password rotation, theming, and a cleaner workflow for managing enterprise connections.
 
 ![Tauri](https://img.shields.io/badge/Tauri-24C8D8?style=flat-square&logo=tauri&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -36,10 +40,11 @@ Per-connection credentials via Windows Credential Manager. Auto-login, password 
 </td>
 <td width="50%" valign="top">
 
-### 🌳 [Canopy](https://github.com/giftedloser/Canopy)
+### [Canopy](https://github.com/giftedloser/Canopy)
+
 **Modern Windows-native Active Directory management**
 
-Built to replace legacy MMC snap-ins. Streamlines everyday admin tasks with a UI that doesn't feel like 2003.
+A replacement for legacy MMC-based workflows, built around common admin tasks and a UI that fits current desktop expectations.
 
 ![Tauri](https://img.shields.io/badge/Tauri-24C8D8?style=flat-square&logo=tauri&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -51,10 +56,11 @@ Built to replace legacy MMC snap-ins. Streamlines everyday admin tasks with a UI
 <tr>
 <td width="50%" valign="top">
 
-### 📜 [Scriptographer](https://github.com/giftedloser/scriptographer)
-**Script deployment tool for domain admins**
+### [Scriptographer](https://github.com/giftedloser/scriptographer)
 
-Multi-target execution, real-time logging, Monaco editor for authoring. Kills the "run and pray" workflow.
+**Script deployment tool for domain administrators**
+
+Multi-target execution, real-time logging, and Monaco-based script authoring for safer PowerShell deployment across managed environments.
 
 ![Electron](https://img.shields.io/badge/Electron-191970?style=flat-square&logo=electron&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -63,10 +69,11 @@ Multi-target execution, real-time logging, Monaco editor for authoring. Kills th
 </td>
 <td width="50%" valign="top">
 
-### 🛫 [Runway](https://github.com/giftedloser/PilotCheck)
-**Local-first Autopilot · Intune · Entra · SCCM triage**
+### [Runway](https://github.com/giftedloser/PilotCheck)
 
-Correlates device identity across Microsoft systems, surfaces broken devices, and tells you exactly why — without the console-hopping. No cloud. No telemetry.
+**Local-first Autopilot, Intune, Entra, and SCCM triage**
+
+Correlates device identity across Microsoft management systems, surfaces broken device states, and explains likely failure points without cloud dependency or telemetry.
 
 ![Tauri](https://img.shields.io/badge/Tauri-24C8D8?style=flat-square&logo=tauri&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -77,10 +84,13 @@ Correlates device identity across Microsoft systems, surfaces broken devices, an
 </tr>
 </table>
 
+## Loser Labs
+
+[loserlabs.dev](https://loserlabs.dev) is my software lab for custom tooling, open-source projects, applied experiments, and B2B desktop applications.
 
 <div align="center">
 
-**Open to freelance** focused on internal tooling, automation, custom software, and B2B desktop applications.
+**Open to freelance work involving internal tooling, automation, custom software, and Windows-first desktop applications.**
 
 [loserlabs.dev](https://loserlabs.dev) · [github.com/giftedloser](https://github.com/giftedloser)
 
