@@ -7,7 +7,7 @@
 
 
 
-### I build practical software for infrastructure, security, and IT operations.
+## I build practical software for infrastructure, security, and IT operations.
 
 **Desktop tooling · Automation · Internal systems — for the people keeping enterprise environments running.**
 
