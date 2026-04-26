@@ -3,17 +3,19 @@
 
 Hey, I'm Marshall — aka `giftedloser` 👋
 
-**Enterprise IT admin — networking, systems, and security.**
-I build the tools I wish existed: desktop apps, automation, and internal systems using Tauri, React, Rust, and PowerShell.
+**I build practical software for infrastructure, security, and IT operations.**
 
-Loser Labs is everything else — music, 3D files, templates, open source, and whatever else I'm into.
+*Desktop tooling · Automation · Internal systems — for the people keeping enterprise environments running.*
 
 [![loserlabs.dev](https://img.shields.io/badge/loserlabs.dev-111111?style=for-the-badge&logoColor=white)](https://loserlabs.dev)
+[![Windows](https://img.shields.io/badge/Windows--first-0078D4?style=for-the-badge&logo=windows&logoColor=white)]()
 [![Open to Freelance](https://img.shields.io/badge/●_Open_to_Freelance-2ea44f?style=for-the-badge)]()
 
 </div>
 
----
+- 🔧 **Building** — Desktop apps and internal tools that solve real admin and operations pain points using Tauri, React, PowerShell, and related tooling.
+- 💼 **Day job** — Enterprise networking, systems, and security in regulated environments.
+- 🌐 **[loserlabs.dev](https://loserlabs.dev)** — Founded February 2026 to build custom software, internal tools, open-source projects, and applied experiments.
 
 ## 🚀 Projects
 
@@ -78,7 +80,7 @@ Correlates device identity across Microsoft systems, surfaces broken devices, an
 
 <div align="center">
 
-**Open to freelance** — internal tooling, automation, custom software, and B2B desktop applications.
+**Open to freelance** focused on internal tooling, automation, custom software, and B2B desktop applications.
 
 [loserlabs.dev](https://loserlabs.dev) · [github.com/giftedloser](https://github.com/giftedloser)
 
