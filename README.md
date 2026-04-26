@@ -5,7 +5,6 @@
 
 ### I build practical software for infrastructure, security, and IT operations.
 
-
 **Desktop tooling · Automation · Internal systems — for the people keeping enterprise environments running.**
 
 [![loserlabs.dev](https://img.shields.io/badge/loserlabs.dev-111111?style=for-the-badge&logoColor=white)](https://loserlabs.dev)
@@ -14,13 +13,9 @@
 
 </div>
 
----
-
 - 🔧 **Building** — Desktop apps and internal tools that solve real admin and operations pain points using Tauri, React, PowerShell, and related tooling.
 - 💼 **Day job** — Enterprise networking, systems, and security in regulated environments.
 - 🌐 **[loserlabs.dev](https://loserlabs.dev)** — Founded February 2026 to build custom software, internal tools, open-source projects, and applied experiments.
-
----
 
 ## 🚀 Projects
 
@@ -82,8 +77,6 @@ Correlates device identity across Microsoft systems, surfaces broken devices, an
 </tr>
 </table>
 
----
-
 ## 🛠 Stack
 
 <div align="center">
@@ -99,8 +92,6 @@ Correlates device identity across Microsoft systems, surfaces broken devices, an
 ![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 
 </div>
-
----
 
 <div align="center">
 
