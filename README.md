@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/giftedloser/giftedloser/main/mascot.png" width="200" alt="Loser Labs Mascot" />
+
 # Hey, I'm Marshall. 👋
 
 ### I build practical software for infrastructure, security, and IT operations.
