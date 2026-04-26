@@ -1,6 +1,7 @@
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/giftedloser/giftedloser/main/mascot.png" width="200" alt="Loser Labs Mascot" />
+<img src="<img width="759" height="876" alt="Image" src="https://github.com/user-attachments/assets/a4a226e8-5050-429b-93c1-79bb1f5c052b" />
+" width="150" alt="Loser Labs Mascot" />
+</div>
 
 # Hey, I'm Marshall. 👋
 
