@@ -17,7 +17,7 @@
 - 💼 **Day job** — Enterprise networking, systems, and security in regulated environments.
 - 🌐 **[loserlabs.dev](https://loserlabs.dev)** — Founded February 2026 to build custom software, internal tools, open-source projects, and applied experiments.
 
-# 🚀 Projects
+## 🚀 Projects
 
 <table>
 <tr>
