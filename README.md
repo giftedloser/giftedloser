@@ -81,6 +81,6 @@ Correlates device identity across Microsoft systems, surfaces broken devices, an
 <div align="center">
 
 
-[loserlabs.dev](https://loserlabs.dev) · [github.com/giftedloser](https://github.com/giftedloser)
+[loserlabs.dev](https://loserlabs.dev) 
 
 </div>
