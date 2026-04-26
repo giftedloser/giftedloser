@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/a4a226e8-5050-429b-93c1-79bb1f5c052b" width="150" alt="Loser Labs Mascot" />
 
-  # Marshall Jarvis / `giftedloser`
+  # Hey, I'm Marshall / `giftedloser`
 
   **Windows-first software for infrastructure, security, and IT operations**
 
@@ -18,7 +18,9 @@
 
 I build practical software for the people responsible for keeping enterprise environments running: desktop tools, automation systems, admin utilities, and internal platforms that reduce console-hopping, manual triage, and brittle operational workflows.
 
-Currently focused on Tauri, React, TypeScript, Rust, PowerShell, SQLite, Windows administration, endpoint management, Active Directory, Intune, Entra, SCCM, and security operations.
+I also use this space for the creative side of Loser Labs: music production tools, workflow templates, 3D-printable STL files, experiments, utilities, and whatever else is worth building, breaking, or shipping. This GitHub is part portfolio, part lab bench, part public archive of the things I am into.
+
+Currently working across Tauri, React, TypeScript, Rust, PowerShell, SQLite, Windows administration, endpoint management, Active Directory, Intune, Entra, SCCM, security operations, audio workflows, creative tooling, and physical/digital maker projects.
 
 ## Featured projects
 
