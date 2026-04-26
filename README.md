@@ -1,15 +1,15 @@
 <div align="center">
 <img src="https://github.com/user-attachments/assets/a4a226e8-5050-429b-93c1-79bb1f5c052b" width="150" alt="Loser Labs Mascot" />
 
-
 # Hey, I'm Marshall. 👋
 
 ### I build practical software for infrastructure, security, and IT operations.
+
 **Desktop tooling · Automation · Internal systems — for the people keeping enterprise environments running.**
 
-[![loserlabs.dev](https://img.shields.io/badge/loserlabs.dev-000000?style=for-the-badge&logoColor=white)](https://loserlabs.dev)
+[![loserlabs.dev](https://img.shields.io/badge/loserlabs.dev-111111?style=for-the-badge&logoColor=white)](https://loserlabs.dev)
 [![Windows](https://img.shields.io/badge/Windows--first-0078D4?style=for-the-badge&logo=windows&logoColor=white)]()
-[![Open to Freelance](https://img.shields.io/badge/%E2%97%8F%20Open%20to%20Freelance-2ea44f?style=for-the-badge)]()
+[![Open to Freelance](https://img.shields.io/badge/●_Open_to_Freelance-2ea44f?style=for-the-badge)]()
 
 </div>
 
@@ -27,7 +27,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### [Reach](https://github.com/giftedloser/Reach)
+### ⚡ [Reach](https://github.com/giftedloser/Reach)
 **Desktop launcher for RDP, SSH, local apps & RemoteApps**
 
 Per-connection credentials via Windows Credential Manager. Auto-login, password rotation, three themes. The connection manager your team actually deserves.
@@ -40,7 +40,7 @@ Per-connection credentials via Windows Credential Manager. Auto-login, password 
 </td>
 <td width="50%" valign="top">
 
-### [Canopy](https://github.com/giftedloser/Canopy)
+### 🌳 [Canopy](https://github.com/giftedloser/Canopy)
 **Modern Windows-native Active Directory management**
 
 Built to replace legacy MMC snap-ins. Streamlines everyday admin tasks with a UI that doesn't feel like 2003.
@@ -55,7 +55,7 @@ Built to replace legacy MMC snap-ins. Streamlines everyday admin tasks with a UI
 <tr>
 <td width="50%" valign="top">
 
-### [Scriptographer](https://github.com/giftedloser/scriptographer)
+### 📜 [Scriptographer](https://github.com/giftedloser/scriptographer)
 **Script deployment tool for domain admins**
 
 Multi-target execution, real-time logging, Monaco editor for authoring. Kills the "run and pray" workflow.
@@ -67,7 +67,7 @@ Multi-target execution, real-time logging, Monaco editor for authoring. Kills th
 </td>
 <td width="50%" valign="top">
 
-### [Runway](https://github.com/giftedloser/PilotCheck)
+### 🛫 [Runway](https://github.com/giftedloser/PilotCheck)
 **Local-first Autopilot · Intune · Entra · SCCM triage**
 
 Correlates device identity across Microsoft systems, surfaces broken devices, and tells you exactly why — without the console-hopping. No cloud. No telemetry.
