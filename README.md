@@ -5,7 +5,7 @@
 
 **I build practical software for infrastructure, security, and IT operations.**
 
-**Desktop tooling · Automation · Internal systems — for the people keeping enterprise environments running.**
+*Desktop tooling · Automation · Internal systems — for the people keeping enterprise environments running.*
 
 [![loserlabs.dev](https://img.shields.io/badge/loserlabs.dev-111111?style=for-the-badge&logoColor=white)](https://loserlabs.dev)
 [![Windows](https://img.shields.io/badge/Windows--first-0078D4?style=for-the-badge&logo=windows&logoColor=white)]()
