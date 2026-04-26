@@ -3,15 +3,16 @@
 
 Hey, I'm Marshall — aka `giftedloser` 👋
 
-**I build practical software for infrastructure, security, and IT operations.**
+I build the tools I wish existed — desktop apps, automation, and internal systems using Tauri, React, Rust, and PowerShell.
 
-*Desktop tooling · Automation · Internal systems — for the people keeping enterprise environments running.*
+Loser Labs is everything else — music, 3D files, templates, open source, and whatever else I'm into.
 
 [![loserlabs.dev](https://img.shields.io/badge/loserlabs.dev-111111?style=for-the-badge&logoColor=white)](https://loserlabs.dev)
-[![Windows](https://img.shields.io/badge/Windows--first-0078D4?style=for-the-badge&logo=windows&logoColor=white)]()
 [![Open to Freelance](https://img.shields.io/badge/●_Open_to_Freelance-2ea44f?style=for-the-badge)]()
 
 </div>
+
+---
 
 - 🔧 **Building** — Desktop apps and internal tools that solve real admin and operations pain points using Tauri, React, PowerShell, and related tooling.
 - 💼 **Day job** — Enterprise networking, systems, and security in regulated environments.
