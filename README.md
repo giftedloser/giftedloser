@@ -12,13 +12,8 @@ Loser Labs is everything else — music, 3D files, templates, open source, and w
 
 </div>
 
----
-
-- 🔧 **Building** — Desktop apps and internal tools that solve real admin and operations pain points using Tauri, React, PowerShell, and related tooling.
-- 💼 **Day job** — Enterprise networking, systems, and security in regulated environments.
-- 🌐 **[loserlabs.dev](https://loserlabs.dev)** — Founded February 2026 to build custom software, internal tools, open-source projects, and applied experiments.
-
-## 🚀 Projects
+---  
+# 🚀 Projects
 
 <table>
 <tr>
