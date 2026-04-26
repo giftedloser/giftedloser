@@ -3,9 +3,10 @@
 
   # Marshall Jarvis / `giftedloser`
 
-  **Loser Labs is my public workshop for practical software, creative tools, and weird useful things.**
+  **I build software for operators — and everything else I find worth making.**
 
-  Windows-first apps · IT automation · Music-production tools · Templates · 3D-printable files · Experiments
+  Desktop tooling · Infrastructure · Security · Automation
+  Music tools · Templates · STL files · Experiments
 
   [![loserlabs.dev](https://img.shields.io/badge/loserlabs.dev-111111?style=for-the-badge&logoColor=white)](https://loserlabs.dev)
   [![Windows First](https://img.shields.io/badge/Windows--first-0078D4?style=for-the-badge&logo=windows&logoColor=white)]()
@@ -14,15 +15,14 @@
 
 ---
 
-## Projects
+## 🚀 Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### [Reach](https://github.com/giftedloser/Reach)
-
-Desktop launcher for RDP, SSH, local apps, and RemoteApps. Built for fast access, saved credentials, rotation, theming, and cleaner enterprise connection management.
+Desktop launcher for RDP, SSH, local apps, and RemoteApps.
 
 ![Tauri](https://img.shields.io/badge/Tauri-24C8D8?style=flat-square&logo=tauri&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -33,8 +33,7 @@ Desktop launcher for RDP, SSH, local apps, and RemoteApps. Built for fast access
 <td width="50%" valign="top">
 
 ### [Canopy](https://github.com/giftedloser/Canopy)
-
-Modern Windows-native Active Directory management. Replaces legacy MMC workflows with faster everyday admin tooling and a UI that feels current.
+Modern Windows-native Active Directory management.
 
 ![Tauri](https://img.shields.io/badge/Tauri-24C8D8?style=flat-square&logo=tauri&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -47,8 +46,7 @@ Modern Windows-native Active Directory management. Replaces legacy MMC workflows
 <td width="50%" valign="top">
 
 ### [Scriptographer](https://github.com/giftedloser/scriptographer)
-
-Script deployment tool for domain admins. Multi-target execution, live logging, and Monaco-based authoring for safer PowerShell rollout.
+Script deployment tool for domain admins.
 
 ![Electron](https://img.shields.io/badge/Electron-191970?style=flat-square&logo=electron&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -58,8 +56,7 @@ Script deployment tool for domain admins. Multi-target execution, live logging, 
 <td width="50%" valign="top">
 
 ### [Runway](https://github.com/giftedloser/PilotCheck)
-
-Local-first Autopilot, Intune, Entra, and SCCM triage. Correlates device identity, surfaces broken states, and explains likely failure points without telemetry.
+Local-first Autopilot, Intune, Entra, and SCCM triage.
 
 ![Tauri](https://img.shields.io/badge/Tauri-24C8D8?style=flat-square&logo=tauri&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -74,7 +71,9 @@ Local-first Autopilot, Intune, Entra, and SCCM triage. Correlates device identit
 
 ---
 
-Open to freelance work involving internal tooling, automation, custom software, and Windows-first desktop applications.
+**Loser Labs** — software, tools, and experiments.
+
+Open to freelance: internal tooling, automation, and Windows-first desktop applications.
 
 [loserlabs.dev](https://loserlabs.dev) · [github.com/giftedloser](https://github.com/giftedloser)
 
