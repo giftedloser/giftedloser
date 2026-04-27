@@ -6,7 +6,6 @@ Hey, I'm Marshall — aka `giftedloser` 👋
 *Desktop tooling · Automation · Internal systems — for the people keeping enterprise environments running.*
 
 [![loserlabs.dev](https://img.shields.io/badge/loserlabs.dev-111111?style=for-the-badge&logoColor=white)](https://loserlabs.dev)
-[![Windows](https://img.shields.io/badge/Windows--first-0078D4?style=for-the-badge&logo=windows&logoColor=white)]()
 [![Open to Freelance](https://img.shields.io/badge/●_Open_to_Freelance-2ea44f?style=for-the-badge)]()
 
 </div>
