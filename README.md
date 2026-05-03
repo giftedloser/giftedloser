@@ -16,7 +16,6 @@
   </p>
 </div>
 
----
 
 ## 🚀 Projects
 
@@ -58,7 +57,6 @@
   </tr>
 </table>
 
----
 
 <div align="center">
   <p>
