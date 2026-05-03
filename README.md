@@ -62,7 +62,8 @@ Multi-target execution, real-time logging, Monaco editor for authoring. Kills th
   <img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=giftedloser&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top languages" />
 </p>
 
-[loserlabs.dev](https://loserlabs.dev)
+<a href="https://loserlabs.dev">
+  <img src="https://img.shields.io/badge/loserlabs.dev-111111?style=for-the-badge&logoColor=white" />
 
 
 </div>
