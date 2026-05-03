@@ -60,5 +60,8 @@ Multi-target execution, real-time logging, Monaco editor for authoring. Kills th
 </p>
 
 [loserlabs.dev](https://loserlabs.dev)
+<a href="mailto:marshall@loserlabs.dev">
+  <img src="https://img.shields.io/badge/Say%20Hello-111111?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 </div>
