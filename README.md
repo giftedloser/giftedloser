@@ -20,10 +20,6 @@ _For the people keeping enterprise environments running._
 
 ## 🚀 Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
 ### 🛫 [Runway](https://github.com/giftedloser/Runway)
 
 **Local-first Autopilot · Intune · Entra · SCCM triage**
@@ -31,14 +27,13 @@ _For the people keeping enterprise environments running._
 Correlates device identity across Microsoft systems, surfaces broken devices, and tells you exactly why — without the console-hopping. No cloud. No telemetry.
 
 <p>
-  <img src="https://img.shields.io/badge/Tauri-24C8D8?style=flat-square&logo=tauri&logoColor=white" alt="Tauri" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Tauri-24C8D8?style=flat-square&logo=tauri&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
 </p>
 
-</td>
-<td width="50%" valign="top">
+---
 
 ### 🌳 [Canopy](https://github.com/giftedloser/Canopy)
 
@@ -47,16 +42,13 @@ Correlates device identity across Microsoft systems, surfaces broken devices, an
 Built to replace legacy MMC snap-ins. Streamlines everyday admin tasks with a UI that doesn't feel like 2003.
 
 <p>
-  <img src="https://img.shields.io/badge/Tauri-24C8D8?style=flat-square&logo=tauri&logoColor=white" alt="Tauri" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/Tauri-24C8D8?style=flat-square&logo=tauri&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
 </p>
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+---
 
 ### ⚡ [Reach](https://github.com/giftedloser/Reach)
 
@@ -65,14 +57,13 @@ Built to replace legacy MMC snap-ins. Streamlines everyday admin tasks with a UI
 Per-connection credentials via Windows Credential Manager. Auto-login, password rotation, three themes. The connection manager your team actually deserves.
 
 <p>
-  <img src="https://img.shields.io/badge/Tauri-24C8D8?style=flat-square&logo=tauri&logoColor=white" alt="Tauri" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Tauri-24C8D8?style=flat-square&logo=tauri&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
 </p>
 
-</td>
-<td width="50%" valign="top">
+---
 
 ### 📜 [Scriptographer](https://github.com/giftedloser/scriptographer)
 
@@ -81,15 +72,10 @@ Per-connection credentials via Windows Credential Manager. Auto-login, password 
 Multi-target execution, real-time logging, Monaco editor for authoring. Kills the "run and pray" workflow.
 
 <p>
-  <img src="https://img.shields.io/badge/Electron-191970?style=flat-square&logo=electron&logoColor=white" alt="Electron" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell" />
+  <img src="https://img.shields.io/badge/Electron-191970?style=flat-square&logo=electron&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" />
 </p>
-
-</td>
-</tr>
-</table>
-
 ---
 
 <div align="center">
