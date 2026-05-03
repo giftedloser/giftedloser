@@ -35,7 +35,6 @@
       <code>Tauri</code> · <code>React</code> · <code>TypeScript</code> · <code>Rust</code>
     </td>
   </tr>
-  <tr><td><br /></td></tr>
   <tr>
     <td>
       <strong>⚡ <a href="https://github.com/giftedloser/Reach">Reach</a></strong><br />
@@ -44,7 +43,6 @@
       <code>Tauri</code> · <code>React</code> · <code>Rust</code> · <code>SQLite</code>
     </td>
   </tr>
-  <tr><td><br /></td></tr>
   <tr>
     <td>
       <strong>📜 <a href="https://github.com/giftedloser/scriptographer">Scriptographer</a></strong><br />
