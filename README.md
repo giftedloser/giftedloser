@@ -4,14 +4,14 @@
 
 # Marshall / `giftedloser`
 
-**Desktop tooling · automation · internal systems**  
+Desktop tooling · automation · internal systems  
 _For the people keeping enterprise environments running._
 
 <p>
   <a href="https://loserlabs.dev">
-    <img src="https://img.shields.io/badge/loserlabs.dev-111111?style=for-the-badge&logoColor=white" alt="loserlabs.dev" />
+    <img src="https://img.shields.io/badge/loserlabs.dev-111111?style=for-the-badge&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/badge/OPEN_TO_FREELANCE-2ea44f?style=for-the-badge" alt="Open to Freelance" />
+  <img src="https://img.shields.io/badge/OPEN_TO_FREELANCE-2ea44f?style=for-the-badge" />
 </p>
 
 </div>
@@ -20,53 +20,45 @@ _For the people keeping enterprise environments running._
 
 ## 🚀 Projects
 
-### 🛫 [Runway](https://github.com/giftedloser/Runway)
+<!-- Single-column cards using pure HTML to avoid GitHub Markdown/table conflicts -->
 
-**Local-first Autopilot · Intune · Entra · SCCM triage**
+<table width="100%" cellspacing="0" cellpadding="0">
+<tr><td style="padding:12px 0;border-bottom:1px solid #30363d;">
+<strong>🛫 <a href="https://github.com/giftedloser/Runway">Runway</a></strong><br/>
+<strong>Local-first Autopilot · Intune · Entra · SCCM triage</strong><br/>
+Correlates device identity across Microsoft systems, surfaces broken devices, and tells you exactly why — without the console-hopping. No cloud. No telemetry.<br/>
+<code>Tauri</code> · <code>React</code> · <code>TypeScript</code> · <code>SQLite</code>
+</td></tr>
 
-Correlates device identity across Microsoft systems and surfaces exactly what's broken — and why. Built for Windows fleet triage without console-hopping, cloud telemetry, or tenant data leaving the operator's machine.
+<tr><td style="padding:12px 0;border-bottom:1px solid #30363d;">
+<strong>🌳 <a href="https://github.com/giftedloser/Canopy">Canopy</a></strong><br/>
+<strong>Modern Windows-native Active Directory management</strong><br/>
+Built to replace legacy MMC snap-ins. Streamlines everyday admin tasks with a UI that doesn't feel like 2003.<br/>
+<code>Tauri</code> · <code>React</code> · <code>TypeScript</code> · <code>Rust</code>
+</td></tr>
 
-`Tauri` · `React` · `TypeScript` · `SQLite`
+<tr><td style="padding:12px 0;border-bottom:1px solid #30363d;">
+<strong>⚡ <a href="https://github.com/giftedloser/Reach">Reach</a></strong><br/>
+<strong>Desktop launcher for RDP, SSH, local apps & RemoteApps</strong><br/>
+Per-connection credentials via Windows Credential Manager. Auto-login, password rotation, three themes. The connection manager your team actually deserves.<br/>
+<code>Tauri</code> · <code>React</code> · <code>Rust</code> · <code>SQLite</code>
+</td></tr>
 
----
-
-### 🌳 [Canopy](https://github.com/giftedloser/Canopy)
-
-**Modern Windows-native Active Directory management**
-
-Replaces legacy MMC workflows with a cleaner, faster admin UI for everyday directory operations.
-
-`Tauri` · `React` · `TypeScript` · `Rust`
-
----
-
-### ⚡ [Reach](https://github.com/giftedloser/Reach)
-
-**Desktop launcher for RDP, SSH, local apps & RemoteApps**
-
-Launches remote and local workflows with saved per-connection credentials, Windows Credential Manager integration, auto-login, password rotation, and theme support.
-
-`Tauri` · `React` · `Rust` · `SQLite`
-
----
-
-### 📜 [Scriptographer](https://github.com/giftedloser/scriptographer)
-
-**Script deployment tool for domain admins**
-
-Runs PowerShell against multiple targets with real-time logging and Monaco-based script editing. Built to replace the "run and pray" workflow.
-
-`Electron` · `React` · `PowerShell`
-
----
+<tr><td style="padding:12px 0;">
+<strong>📜 <a href="https://github.com/giftedloser/scriptographer">Scriptographer</a></strong><br/>
+<strong>Script deployment tool for domain admins</strong><br/>
+Multi-target execution, real-time logging, Monaco editor for authoring. Kills the "run and pray" workflow.<br/>
+<code>Electron</code> · <code>React</code> · <code>PowerShell</code>
+</td></tr>
+</table>
 
 <div align="center">
 
 ## 📊 GitHub Stats
 
 <p>
-  <img height="170" src="https://streak-stats.demolab.com/?user=giftedloser&theme=dark&hide_border=true" alt="GitHub streak stats" />
-  <img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=giftedloser&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top languages" />
+  <img height="180" src="https://streak-stats.demolab.com/?user=giftedloser&theme=dark&hide_border=true" alt="GitHub streak stats" />
+  <img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=giftedloser&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top languages" />
 </p>
 
 [loserlabs.dev](https://loserlabs.dev)
