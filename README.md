@@ -27,7 +27,6 @@
       <code>Tauri</code> · <code>React</code> · <code>TypeScript</code> · <code>SQLite</code>
     </td>
   </tr>
-  <tr><td><br /></td></tr>
   <tr>
     <td>
       <strong>🌳 <a href="https://github.com/giftedloser/Canopy">Canopy</a></strong><br />
