@@ -1,16 +1,22 @@
 <div align="center">
-<img src="https://github.com/user-attachments/assets/a4a226e8-5050-429b-93c1-79bb1f5c052b" width="150" alt="Loser Labs Mascot" />
 
-Hey, I'm Marshall — aka `giftedloser` 👋
+<img src="https://github.com/user-attachments/assets/a4a226e8-5050-429b-93c1-79bb1f5c052b" width="132" alt="Loser Labs Mascot" />
 
-*Desktop tooling · Automation · Internal systems — for the people keeping enterprise environments running.*
+# Marshall / `giftedloser`
 
-[![loserlabs.dev](https://img.shields.io/badge/loserlabs.dev-111111?style=for-the-badge&logoColor=white)](https://loserlabs.dev)
-[![Open to Freelance](https://img.shields.io/badge/●_Open_to_Freelance-2ea44f?style=for-the-badge)]()
+**Desktop tooling · automation · internal systems**  
+_For the people keeping enterprise environments running._
+
+<p>
+  <a href="https://loserlabs.dev">
+    <img src="https://img.shields.io/badge/loserlabs.dev-111111?style=for-the-badge&logoColor=white" alt="loserlabs.dev" />
+  </a>
+  <img src="https://img.shields.io/badge/●_Open_to_Freelance-2ea44f?style=for-the-badge" alt="Open to Freelance" />
+</p>
 
 </div>
 
-
+---
 
 ## 🚀 Projects
 
@@ -19,27 +25,33 @@ Hey, I'm Marshall — aka `giftedloser` 👋
 <td width="50%" valign="top">
 
 ### ⚡ [Reach](https://github.com/giftedloser/Reach)
+
 **Desktop launcher for RDP, SSH, local apps & RemoteApps**
 
 Per-connection credentials via Windows Credential Manager. Auto-login, password rotation, three themes. The connection manager your team actually deserves.
 
-![Tauri](https://img.shields.io/badge/Tauri-24C8D8?style=flat-square&logo=tauri&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Tauri-24C8D8?style=flat-square&logo=tauri&logoColor=white" alt="Tauri" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+</p>
 
 </td>
 <td width="50%" valign="top">
 
 ### 🌳 [Canopy](https://github.com/giftedloser/Canopy)
+
 **Modern Windows-native Active Directory management**
 
 Built to replace legacy MMC snap-ins. Streamlines everyday admin tasks with a UI that doesn't feel like 2003.
 
-![Tauri](https://img.shields.io/badge/Tauri-24C8D8?style=flat-square&logo=tauri&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Tauri-24C8D8?style=flat-square&logo=tauri&logoColor=white" alt="Tauri" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
+</p>
 
 </td>
 </tr>
@@ -47,43 +59,48 @@ Built to replace legacy MMC snap-ins. Streamlines everyday admin tasks with a UI
 <td width="50%" valign="top">
 
 ### 📜 [Scriptographer](https://github.com/giftedloser/scriptographer)
+
 **Script deployment tool for domain admins**
 
 Multi-target execution, real-time logging, Monaco editor for authoring. Kills the "run and pray" workflow.
 
-![Electron](https://img.shields.io/badge/Electron-191970?style=flat-square&logo=electron&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Electron-191970?style=flat-square&logo=electron&logoColor=white" alt="Electron" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell" />
+</p>
 
 </td>
 <td width="50%" valign="top">
 
-### 🛫 [Runway](https://github.com/giftedloser/PilotCheck)
+### 🛫 [Runway](https://github.com/giftedloser/Runway)
+
 **Local-first Autopilot · Intune · Entra · SCCM triage**
 
 Correlates device identity across Microsoft systems, surfaces broken devices, and tells you exactly why — without the console-hopping. No cloud. No telemetry.
 
-![Tauri](https://img.shields.io/badge/Tauri-24C8D8?style=flat-square&logo=tauri&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Tauri-24C8D8?style=flat-square&logo=tauri&logoColor=white" alt="Tauri" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+</p>
 
 </td>
 </tr>
 </table>
 
+---
 
 <div align="center">
 
+## 📊 GitHub Stats
 
-[loserlabs.dev](https://loserlabs.dev) 
-
-# 📊 GitHub Stats:
-
-<p align="center">
-  <img height="180" src="https://streak-stats.demolab.com/?user=giftedloser&theme=dark&hide_border=true" />
-  <img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=giftedloser&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+<p>
+  <img height="180" src="https://streak-stats.demolab.com/?user=giftedloser&theme=dark&hide_border=true" alt="GitHub streak stats" />
+  <img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=giftedloser&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top languages" />
 </p>
 
+[loserlabs.dev](https://loserlabs.dev)
 
 </div>
