@@ -81,7 +81,6 @@ Correlates device identity across Microsoft systems, surfaces broken devices, an
 # 📊 GitHub Stats:
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.shion.dev/api?username=giftedloser&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
   <img height="180" src="https://streak-stats.demolab.com/?user=giftedloser&theme=dark&hide_border=true" />
   <img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=giftedloser&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 </p>
