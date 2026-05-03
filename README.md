@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/a4a226e8-5050-429b-93c1-79bb1f5c052b" width="132" alt="Loser Labs Mascot" />
+<img src="https://github.com/user-attachments/assets/a4a226e8-5050-429b-93c1-79bb1f5c052b" width="120" alt="Loser Labs Mascot" />
 
 # Marshall / `giftedloser`
 
@@ -11,7 +11,7 @@ _For the people keeping enterprise environments running._
   <a href="https://loserlabs.dev">
     <img src="https://img.shields.io/badge/loserlabs.dev-111111?style=for-the-badge&logoColor=white" alt="loserlabs.dev" />
   </a>
-  <img src="https://img.shields.io/badge/●_Open_to_Freelance-2ea44f?style=for-the-badge" alt="Open to Freelance" />
+  <img src="https://img.shields.io/badge/OPEN_TO_FREELANCE-2ea44f?style=for-the-badge" alt="Open to Freelance" />
 </p>
 
 </div>
@@ -24,14 +24,9 @@ _For the people keeping enterprise environments running._
 
 **Local-first Autopilot · Intune · Entra · SCCM triage**
 
-Correlates device identity across Microsoft systems, surfaces broken devices, and tells you exactly why — without the console-hopping. No cloud. No telemetry.
+Correlates device identity across Microsoft systems and surfaces exactly what's broken — and why. Built for Windows fleet triage without console-hopping, cloud telemetry, or tenant data leaving the operator's machine.
 
-<p>
-  <img src="https://img.shields.io/badge/Tauri-24C8D8?style=flat-square&logo=tauri&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
-</p>
+`Tauri` · `React` · `TypeScript` · `SQLite`
 
 ---
 
@@ -39,14 +34,9 @@ Correlates device identity across Microsoft systems, surfaces broken devices, an
 
 **Modern Windows-native Active Directory management**
 
-Built to replace legacy MMC snap-ins. Streamlines everyday admin tasks with a UI that doesn't feel like 2003.
+Replaces legacy MMC workflows with a cleaner, faster admin UI for everyday directory operations.
 
-<p>
-  <img src="https://img.shields.io/badge/Tauri-24C8D8?style=flat-square&logo=tauri&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
-</p>
+`Tauri` · `React` · `TypeScript` · `Rust`
 
 ---
 
@@ -54,14 +44,9 @@ Built to replace legacy MMC snap-ins. Streamlines everyday admin tasks with a UI
 
 **Desktop launcher for RDP, SSH, local apps & RemoteApps**
 
-Per-connection credentials via Windows Credential Manager. Auto-login, password rotation, three themes. The connection manager your team actually deserves.
+Launches remote and local workflows with saved per-connection credentials, Windows Credential Manager integration, auto-login, password rotation, and theme support.
 
-<p>
-  <img src="https://img.shields.io/badge/Tauri-24C8D8?style=flat-square&logo=tauri&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
-</p>
+`Tauri` · `React` · `Rust` · `SQLite`
 
 ---
 
@@ -69,13 +54,10 @@ Per-connection credentials via Windows Credential Manager. Auto-login, password 
 
 **Script deployment tool for domain admins**
 
-Multi-target execution, real-time logging, Monaco editor for authoring. Kills the "run and pray" workflow.
+Runs PowerShell against multiple targets with real-time logging and Monaco-based script editing. Built to replace the "run and pray" workflow.
 
-<p>
-  <img src="https://img.shields.io/badge/Electron-191970?style=flat-square&logo=electron&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" />
-</p>
+`Electron` · `React` · `PowerShell`
+
 ---
 
 <div align="center">
@@ -83,8 +65,8 @@ Multi-target execution, real-time logging, Monaco editor for authoring. Kills th
 ## 📊 GitHub Stats
 
 <p>
-  <img height="180" src="https://streak-stats.demolab.com/?user=giftedloser&theme=dark&hide_border=true" alt="GitHub streak stats" />
-  <img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=giftedloser&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top languages" />
+  <img height="170" src="https://streak-stats.demolab.com/?user=giftedloser&theme=dark&hide_border=true" alt="GitHub streak stats" />
+  <img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=giftedloser&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top languages" />
 </p>
 
 [loserlabs.dev](https://loserlabs.dev)
