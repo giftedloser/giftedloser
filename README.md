@@ -1,8 +1,8 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/a4a226e8-5050-429b-93c1-79bb1f5c052b" width="120" alt="Loser Labs Mascot" />
 
-  <h1>Marshall / <code>giftedloser</code></h1>
-  <p>desktop tooling · automation · internal systems</p>
+<h1 align="center">Marshall / <code>giftedloser</code></h1>
+<p>desktop tooling · automation · internal systems</p>
 
   <p>
     <a href="https://loserlabs.dev">
