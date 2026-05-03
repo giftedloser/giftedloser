@@ -4,8 +4,7 @@
 
 # Marshall / `giftedloser`
 
-Desktop tooling · automation · internal systems  
-_For the people keeping enterprise environments running._
+desktop tooling · automation · internal systems  
 
 <p>
   <a href="https://loserlabs.dev">
@@ -54,7 +53,6 @@ Multi-target execution, real-time logging, Monaco editor for authoring. Kills th
 
 <div align="center">
 
-## 📊 GitHub Stats
 
 <p>
   <img height="180" src="https://streak-stats.demolab.com/?user=giftedloser&theme=dark&hide_border=true" alt="GitHub streak stats" />
