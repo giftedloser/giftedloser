@@ -1,8 +1,8 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/a4a226e8-5050-429b-93c1-79bb1f5c052b" width="120" alt="Loser Labs Mascot" />
 
-<h1 align="center">Marshall / <code>giftedloser</code></h1>
-<p>desktop tooling · automation · internal systems</p>
+  <h1 align="center">Marshall / <code>giftedloser</code></h1>
+  <p>infrastructure tooling · automation · Windows administration</p>
 
   <p>
     <a href="https://loserlabs.dev">
@@ -15,44 +15,42 @@
   </p>
 </div>
 
-
-## 🚀 Projects
+## Featured Projects
 
 <table width="100%" cellspacing="0" cellpadding="0">
   <tr>
     <td>
-      <strong>🛫 <a href="https://github.com/giftedloser/Runway">Runway</a></strong><br />
-      <strong>Local-first Autopilot · Intune · Entra · SCCM triage</strong><br />
-      Correlates device identity across Microsoft systems, surfaces broken devices, and tells you exactly why — without the console-hopping. No cloud. No telemetry.<br />
+      <strong><a href="https://github.com/giftedloser/Runway">Runway</a></strong><br />
+      <strong>Local-first Autopilot, Intune, Entra, and SCCM triage</strong><br />
+      Local-first Microsoft device triage for Autopilot, Intune, Entra, and SCCM environments. Correlates device identity across systems, surfaces broken records, and explains remediation paths without console-hopping. No cloud. No telemetry.<br />
       <code>Tauri</code> · <code>React</code> · <code>TypeScript</code> · <code>SQLite</code>
     </td>
   </tr>
   <tr>
     <td>
-      <strong>🌳 <a href="https://github.com/giftedloser/Canopy">Canopy</a></strong><br />
+      <strong><a href="https://github.com/giftedloser/Canopy">Canopy</a></strong><br />
       <strong>Modern Windows-native Active Directory management</strong><br />
-      Built to replace legacy MMC snap-ins. Streamlines everyday admin tasks with a UI that doesn't feel like 2003.<br />
+      Windows-native Active Directory administration tool designed to replace legacy MMC workflows with a faster interface for common directory operations.<br />
       <code>Tauri</code> · <code>React</code> · <code>TypeScript</code> · <code>Rust</code>
     </td>
   </tr>
   <tr>
     <td>
-      <strong>⚡ <a href="https://github.com/giftedloser/Reach">Reach</a></strong><br />
-      <strong>Desktop launcher for RDP, SSH, local apps & RemoteApps</strong><br />
-      Per-connection credentials via Windows Credential Manager. Auto-login, password rotation, three themes. The connection manager your team actually deserves.<br />
+      <strong><a href="https://github.com/giftedloser/Reach">Reach</a></strong><br />
+      <strong>Desktop launcher for RDP, SSH, local apps, and RemoteApps</strong><br />
+      Centralized desktop launcher for administrative connections with Windows Credential Manager integration, auto-login support, password rotation, and themeable workflows.<br />
       <code>Tauri</code> · <code>React</code> · <code>Rust</code> · <code>SQLite</code>
     </td>
   </tr>
   <tr>
     <td>
-      <strong>📜 <a href="https://github.com/giftedloser/scriptographer">Scriptographer</a></strong><br />
-      <strong>Script deployment tool for domain admins</strong><br />
-      Multi-target execution, real-time logging, Monaco editor for authoring. Kills the "run and pray" workflow.<br />
+      <strong><a href="https://github.com/giftedloser/scriptographer">Scriptographer</a></strong><br />
+      <strong>Script deployment tool for Windows domain admins</strong><br />
+      Windows domain administration tool for multi-target script execution, real-time logging, and Monaco-based PowerShell authoring.<br />
       <code>Electron</code> · <code>React</code> · <code>PowerShell</code>
     </td>
   </tr>
 </table>
-
 
 <div align="center">
   <p>
