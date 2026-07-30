@@ -20,34 +20,34 @@
 <table width="100%" cellspacing="0" cellpadding="0">
   <tr>
     <td>
-      <strong><a href="https://github.com/giftedloser/Runway">Runway</a></strong><br />
-      <strong>Local-first Autopilot, Intune, Entra, and SCCM triage</strong><br />
-      Local-first Microsoft device triage for Autopilot, Intune, Entra, and SCCM environments. Correlates device identity across systems, surfaces broken records, and explains remediation paths without console-hopping. No cloud. No telemetry.<br />
-      <code>Tauri</code> · <code>React</code> · <code>TypeScript</code> · <code>SQLite</code>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <strong><a href="https://github.com/giftedloser/Canopy">Canopy</a></strong><br />
-      <strong>Modern Windows-native Active Directory management</strong><br />
-      Windows-native Active Directory administration tool designed to replace legacy MMC workflows with a faster interface for common directory operations.<br />
+      <strong><a href="https://github.com/giftedloser/Vellum">Vellum</a></strong><br />
+      <strong>A quiet desktop home for documents and persistent scratch notes</strong><br />
+      Local-first Windows workspace for reading and editing Markdown, HTML, and text files without the clutter of a full IDE. Keeps independent scratch notes ready with no account, cloud sync, telemetry, or required Save dialog.<br />
       <code>Tauri</code> · <code>React</code> · <code>TypeScript</code> · <code>Rust</code>
     </td>
   </tr>
   <tr>
     <td>
+      <strong><a href="https://github.com/giftedloser/skills">GiftedLoser's Skills</a></strong><br />
+      <strong>Codex skills for project setup, audits, and repository polish</strong><br />
+      Ten focused Codex skills for pressure-testing ideas, initializing projects, checking real behavior, code, security, performance, UI, and releases, and improving repository presentation. Install the complete collection or one of three purpose-built packs.<br />
+      <code>Codex</code> · <code>Python</code> · <code>PowerShell</code> · <code>Markdown</code>
+    </td>
+  </tr>
+  <tr>
+    <td>
       <strong><a href="https://github.com/giftedloser/Reach">Reach</a></strong><br />
-      <strong>Desktop launcher for RDP, SSH, local apps, and RemoteApps</strong><br />
-      Centralized desktop launcher for administrative connections with Windows Credential Manager integration, auto-login support, password rotation, and themeable workflows.<br />
+      <strong>Your Windows workbench, one edge away</strong><br />
+      Docked Windows launcher for RDP, SSH, serial connections, local apps, scripts, URLs, quick notes, tasks, and service operations. Lives in the system tray, collapses to a screen-edge handle, and keeps saved passwords in Windows Credential Manager.<br />
       <code>Tauri</code> · <code>React</code> · <code>Rust</code> · <code>SQLite</code>
     </td>
   </tr>
   <tr>
     <td>
-      <strong><a href="https://github.com/giftedloser/scriptographer">Scriptographer</a></strong><br />
-      <strong>Script deployment tool for Windows domain admins</strong><br />
-      Windows domain administration tool for multi-target script execution, real-time logging, and Monaco-based PowerShell authoring.<br />
-      <code>Electron</code> · <code>React</code> · <code>PowerShell</code>
+      <strong><a href="https://github.com/giftedloser/Canopy">Canopy</a></strong><br />
+      <strong>Modern Active Directory administration without MMC sprawl</strong><br />
+      Windows-native desktop app for browsing and managing users, computers, groups, directory structure, and security or hygiene reports. Uses integrated Windows authentication for reads and explicit elevation for writes.<br />
+      <code>Tauri</code> · <code>React</code> · <code>TypeScript</code> · <code>Rust</code>
     </td>
   </tr>
 </table>
