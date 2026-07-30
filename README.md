@@ -2,7 +2,8 @@
   <img src="https://github.com/user-attachments/assets/a4a226e8-5050-429b-93c1-79bb1f5c052b" width="120" alt="Loser Labs Mascot" />
 
   <h1 align="center">Marshall / <code>giftedloser</code></h1>
-  <p>infrastructure tooling · automation · Windows administration</p>
+  <p><strong>Local-first Windows tools and practical Codex workflows.</strong></p>
+  <p>I build focused software for IT work that should be faster, clearer, and easier to trust.</p>
 
   <p>
     <a href="https://loserlabs.dev">
@@ -15,42 +16,39 @@
   </p>
 </div>
 
-## Featured Projects
+## Featured work
 
-<table width="100%" cellspacing="0" cellpadding="0">
-  <tr>
-    <td>
-      <strong><a href="https://github.com/giftedloser/Vellum">Vellum</a></strong><br />
-      <strong>A quiet desktop home for documents and persistent scratch notes</strong><br />
-      Local-first Windows workspace for reading and editing Markdown, HTML, and text files without the clutter of a full IDE. Keeps independent scratch notes ready with no account, cloud sync, telemetry, or required Save dialog.<br />
-      <code>Tauri</code> · <code>React</code> · <code>TypeScript</code> · <code>Rust</code>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <strong><a href="https://github.com/giftedloser/skills">GiftedLoser's Skills</a></strong><br />
-      <strong>Codex skills for project setup, audits, and repository polish</strong><br />
-      Ten focused Codex skills for pressure-testing ideas, initializing projects, checking real behavior, code, security, performance, UI, and releases, and improving repository presentation. Install the complete collection or one of three purpose-built packs.<br />
-      <code>Codex</code> · <code>Python</code> · <code>PowerShell</code> · <code>Markdown</code>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <strong><a href="https://github.com/giftedloser/Reach">Reach</a></strong><br />
-      <strong>Your Windows workbench, one edge away</strong><br />
-      Docked Windows launcher for RDP, SSH, serial connections, local apps, scripts, URLs, quick notes, tasks, and service operations. Lives in the system tray, collapses to a screen-edge handle, and keeps saved passwords in Windows Credential Manager.<br />
-      <code>Tauri</code> · <code>React</code> · <code>Rust</code> · <code>SQLite</code>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <strong><a href="https://github.com/giftedloser/Canopy">Canopy</a></strong><br />
-      <strong>Modern Active Directory administration without MMC sprawl</strong><br />
-      Windows-native desktop app for browsing and managing users, computers, groups, directory structure, and security or hygiene reports. Uses integrated Windows authentication for reads and explicit elevation for writes.<br />
-      <code>Tauri</code> · <code>React</code> · <code>TypeScript</code> · <code>Rust</code>
-    </td>
-  </tr>
-</table>
+### [Vellum](https://github.com/giftedloser/Vellum)
+
+**A quiet desktop home for documents and persistent scratch notes.**
+
+Read and edit local Markdown, HTML, and text files without opening a full IDE. Vellum keeps scratch notes ready without an account, cloud sync, telemetry, or a required Save dialog.
+
+`Tauri` · `React` · `TypeScript` · `Rust`
+
+### [GiftedLoser's Skills](https://github.com/giftedloser/skills)
+
+**Codex skills for project setup, audits, and repository polish.**
+
+Ten focused skills for challenging ideas, initializing repositories, checking real behavior, code, security, performance, UI, and releases, and improving repository presentation. Install one pack or the complete collection.
+
+`Codex` · `Python` · `PowerShell` · `Markdown`
+
+### [Reach](https://github.com/giftedloser/Reach)
+
+**Your Windows workbench, one edge away.**
+
+Launch RDP, SSH, serial connections, local apps, scripts, and URLs from a docked desktop workspace. Reach also keeps quick notes, tasks, service operations, and Windows Credential Manager-backed passwords close at hand.
+
+`Tauri` · `React` · `Rust` · `SQLite`
+
+### [Canopy](https://github.com/giftedloser/Canopy)
+
+**Modern Active Directory administration without MMC sprawl.**
+
+Browse and manage users, computers, groups, directory structure, and security or hygiene reports from one Windows-native app. Reads use integrated Windows authentication; writes require explicit elevation.
+
+`Tauri` · `React` · `TypeScript` · `Rust`
 
 <div align="center">
   <p>
